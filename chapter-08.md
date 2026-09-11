@@ -109,9 +109,9 @@ be about to 加动词原形表示"即将、正要"做某事，强调动作就在
 
 第四个易错点是主将从现规则的遗漏。I will tell him when he will come back\. 是错误的，when 引导的时间状语从句应该用一般现在时，正确形式是 I will tell him when he comes back\.（他回来时我会告诉他。）类似的错误还出现在 if、before、after、as soon as、until 引导的从句中。检查流程是先识别从句类型，再判断从句动作是否发生在将来，如果是，从句用一般现在时。
 
-## 七、本章练习
+## 七、练习
 
-下面五道题对应本章的检查项：一般现在时的构成与用法、一般过去时的构成与不规则动词、一般将来时四种表达的选择、主将从现规则、时间状语与时态的搭配。请先独立完成，再对照参考答案核对。
+下面的练习覆盖本章全部要点：一般现在时的构成与用法、一般过去时的构成与不规则动词、一般将来时四种表达的选择、主将从现规则、时间状语与时态的搭配。请先独立完成，再对照参考答案核对。
 
 1. 用括号内动词的正确形式填空。She \_\_\_ \(read\) a book every night before bed\. The sun \_\_\_ \(rise\) in the east\. He \_\_\_ \(not like\) coffee\.
 
@@ -122,6 +122,22 @@ be about to 加动词原形表示"即将、正要"做某事，强调动作就在
 4. 改正下列句子中的时态错误。I will go to the park if it will not rain tomorrow\. She don't like swimming\. He goed to Beijing last week\.
 
 5. 用三种一般时态分别翻译"我每天跑步""我昨天跑步了""我明天要跑步"。
+
+6. 选择正确答案。My father \_\_\_ to work by subway every day\. A\. go B\. goes C\. went D\. will go
+
+7. 用括号内动词的正确形式填空。When I \_\_\_ \(be\) young, I \_\_\_ \(want\) to be a pilot\. She \_\_\_ \(become\) a doctor last year\.
+
+8. 判断下列句子使用了哪种将来表达，并说明理由。The train is to depart at 7:30\. I was about to take a shower when you called\. We are going to move to a new house next month\. I will help you with your homework\.
+
+9. 改正下列句子中的错误。He often play basketball after school\. If you will study hard, you will pass the exam\. I have seen him yesterday\.
+
+10. 用一般现在时翻译下列句子。地球绕着太阳转。她通常六点起床。火车十点发车。
+
+11. 用一般过去时翻译下列句子。我上周去了上海。他三年前买了这辆车。她昨天没有来上课。
+
+12. 用适当的将来表达翻译下列句子。我打算明年学日语。看那些云，要下雪了。会议即将开始。你必须在周五前交报告。
+
+13. 综合题：用英语写五句话，分别使用一般现在时、一般过去时、一般将来时（will）、一般将来时（be going to）、主将从现结构，每句话配中文翻译。
 
 参考答案：
 
@@ -135,42 +151,20 @@ be about to 加动词原形表示"即将、正要"做某事，强调动作就在
 
 5. 依次为 I run every day\. / I ran yesterday\. / I will run tomorrow\.
 
-## 八、本章自测
+6. 选 B，主语 my father 是第三人称单数，一般现在时动词加\-es。
 
-下面是本章自测清单，八道题覆盖全部要点，难度从基础到综合递进。请在不翻看前文的情况下独立完成，然后对照参考答案。做错的题回到对应小节重读，确保每个错误点都被纠正。
+7. 依次为 was、wanted、became。
 
-1. 选择正确答案。My father \_\_\_ to work by subway every day\. A\. go B\. goes C\. went D\. will go
+8. 第一句 be to 表示正式安排，第二句 be about to 表示即将发生，第三句 be going to 表示事先计划，第四句 will 表示临时决定或意愿。
 
-2. 用括号内动词的正确形式填空。When I \_\_\_ \(be\) young, I \_\_\_ \(want\) to be a pilot\. She \_\_\_ \(become\) a doctor last year\.
+9. 第一句 play 改为 plays，第二句 will study 改为 study，第三句 have seen 改为 saw（yesterday 与一般过去时搭配）。
 
-3. 判断下列句子使用了哪种将来表达，并说明理由。The train is to depart at 7:30\. I was about to take a shower when you called\. We are going to move to a new house next month\. I will help you with your homework\.
+10. 依次为 The earth moves around the sun\. / She usually gets up at six\. / The train leaves at ten\.
 
-4. 改正下列句子中的错误。He often play basketball after school\. If you will study hard, you will pass the exam\. I have seen him yesterday\.
+11. 依次为 I went to Shanghai last week\. / He bought this car three years ago\. / She did not come to class yesterday\.
 
-5. 用一般现在时翻译下列句子。地球绕着太阳转。她通常六点起床。火车十点发车。
+12. 依次为 I am going to study Japanese next year\. / Look at those clouds\. It is going to snow\. / The meeting is about to start\. / You are to submit the report by Friday\.
 
-6. 用一般过去时翻译下列句子。我上周去了上海。他三年前买了这辆车。她昨天没有来上课。
-
-7. 用适当的将来表达翻译下列句子。我打算明年学日语。看那些云，要下雪了。会议即将开始。你必须在周五前交报告。
-
-8. 综合题：用英语写五句话，分别使用一般现在时、一般过去时、一般将来时（will）、一般将来时（be going to）、主将从现结构，每句话配中文翻译。
-
-参考答案：
-
-1. 选 B，主语 my father 是第三人称单数，一般现在时动词加\-es。
-
-2. 依次为 was、wanted、became。
-
-3. 第一句 be to 表示正式安排，第二句 be about to 表示即将发生，第三句 be going to 表示事先计划，第四句 will 表示临时决定或意愿。
-
-4. 第一句 play 改为 plays，第二句 will study 改为 study，第三句 have seen 改为 saw（yesterday 与一般过去时搭配）。
-
-5. 依次为 The earth moves around the sun\. / She usually gets up at six\. / The train leaves at ten\.
-
-6. 依次为 I went to Shanghai last week\. / He bought this car three years ago\. / She did not come to class yesterday\.
-
-7. 依次为 I am going to study Japanese next year\. / Look at those clouds\. It is going to snow\. / The meeting is about to start\. / You are to submit the report by Friday\.
-
-8. 开放题，只要时态使用正确、句子通顺即可。
+13. 开放题，只要时态使用正确、句子通顺即可。
 
 学完本章，你已经掌握了三种一般时态，接下来可以进入第九章，学习进行时、完成时和完成进行时如何在这三个时间区间内进一步细化动作的方式。

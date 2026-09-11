@@ -102,9 +102,9 @@ it 和 one 的区别需要注意。it 指代同名同物，one 指代同名异�
 
 人称代词在 than 和 as 后面的格是易错点。He is taller than I\. 和 He is taller than me\. 都正确，前者是正式用法，than 是连词，后面省略了 am。后者是口语用法，than 是介词，后面接宾格。类似的还有 She is as tall as him 或 as he is。考试中如果有 am/is/are 的暗示，用主格更安全。
 
-## 八、单元练习
+## 八、练习
 
-下面的练习对应本章的检查项：人称代词主格宾格、物主代词、反身代词、指示代词、不定代词、指代一致。请先独立完成，再对照参考答案核对。
+下面的练习覆盖本章全部要点：人称代词主格宾格、物主代词、反身代词、指示代词、不定代词、指代一致。请先独立完成，再对照参考答案核对。
 
 1. 用适当的人称代词填空。1\. \_\_\_ am a teacher\. 2\. Please help \_\_\_ \.（我）3\. \_\_\_ are my friends\.（他们）4\. I saw \_\_\_ at the party\.（她）5\. The cat hurt \_\_\_ \.（它自己）
 
@@ -113,6 +113,22 @@ it 和 one 的区别需要注意。it 指代同名同物，one 指代同名异�
 3. 用适当的不定代词填空（some/any/many/much/few/little/a few/a little）。1\. I have \_\_\_ money\.（一些）2\. There are \_\_\_ students in the classroom\.（很多）3\. \_\_\_ people know this secret\.（几乎没有）4\. Could you give me \_\_\_ advice?（一些）5\. I have \_\_\_ time left\.（几乎没有）6\. She knows \_\_\_ English\.（一点）
 
 4. 选择正确的代词。1\. \(Both/All\) \_\_\_ of the two answers are correct\. 2\. \(None/No one\) \_\_\_ of the books is interesting\. 3\. \(Each/Every\) \_\_\_ of them has a car\. 4\. I have two pens\. One is red, \(the other/another\) \_\_\_ is blue\. 5\. \(Neither/Either\) \_\_\_ answer is correct\. They are both wrong\.
+
+5. 改正下列句子中的错误。1\. Me and him are good friends\. 2\. This book is her\. 3\. The dog hurt it's leg\. 4\. Himself did the work\. 5\. Every of the students passed the exam\.
+
+6. 用适当的代词填空。1\. This is my book\. \_\_\_ is on the desk\.（你的）2\. I have two sisters\. \_\_\_ is a doctor, \_\_\_ is a teacher\. 3\. \_\_\_ is raining outside\. 4\. I find \_\_\_ hard to learn math\. 5\. Help \_\_\_ to some fruit\.（你自己）
+
+7. 说明下列每组代词的差异。1\. some / any 2\. few / a few 3\. little / a little 4\. each / every 5\. none / no one
+
+8. 翻译下列句子。1\. 我和他是好朋友。2\. 这是我的书，那本是你的。3\. 他自学了英语。4\. 这些书是我的，那些是他的。5\. 没有人知道答案。
+
+9. 判断对错并改正。1\. He is taller than me\. 2\. I don't have some money\. 3\. Both of them isn't here\. 4\. Another three students came\. 5\. Who did you see?
+
+10. 指出下列句子中代词充当的成分。1\. She likes music\. 2\. I saw him yesterday\. 3\. This book is mine\. 4\. He hurt himself\. 5\. What do you want?
+
+11. 用英语改写下列句子，消除指代歧义。1\. Tom told Jerry that he was wrong\. 2\. The teacher told the student that he needed to study harder\.
+
+12. 用英语写五个句子，分别包含人称代词、物主代词、反身代词、指示代词和不定代词。
 
 参考答案：
 
@@ -124,42 +140,20 @@ it 和 one 的区别需要注意。it 指代同名同物，one 指代同名异�
 
 4. 依次为 Both、None、Each、the other、Neither。
 
-## 九、单元自测
+5. 1\. 改为 He and I are good friends\.（顺序和主格）2\. her 改为 hers。3\. it's 改为 its。4\. 改为 He did the work himself\. 5\. Every 改为 Each 或 Every one。
 
-下面八道自测题覆盖本章全部要点。请独立完成后核对答案。
+6. 依次为 Yours、One the other、It、it、yourself。
 
-1. 改正下列句子中的错误。1\. Me and him are good friends\. 2\. This book is her\. 3\. The dog hurt it's leg\. 4\. Himself did the work\. 5\. Every of the students passed the exam\.
+7. 1\. some 多用于肯定句，any 多用于否定句和疑问句；2\. few 几乎没有（否定），a few 有几个（肯定），都修饰可数；3\. little 几乎没有（否定），a little 有一点（肯定），都修饰不可数；4\. each 强调个体可作多种成分，every 强调整体只作定语；5\. none 可指人或物可接 of，no one 只指人不可接 of。
 
-2. 用适当的代词填空。1\. This is my book\. \_\_\_ is on the desk\.（你的）2\. I have two sisters\. \_\_\_ is a doctor, \_\_\_ is a teacher\. 3\. \_\_\_ is raining outside\. 4\. I find \_\_\_ hard to learn math\. 5\. Help \_\_\_ to some fruit\.（你自己）
+8. 1\. He and I are good friends\. 2\. This is my book, that one is yours\. 3\. He taught himself English\. 4\. These books are mine, those are his\. 5\. No one knows the answer\.
 
-3. 说明下列每组代词的差异。1\. some / any 2\. few / a few 3\. little / a little 4\. each / every 5\. none / no one
+9. 1\. 对（口语）或正式用 than I；2\. 错，some 改为 any；3\. 错，isn't 改为 aren't；4\. 对；5\. 对（口语中 who 可代替 whom）。
 
-4. 翻译下列句子。1\. 我和他是好朋友。2\. 这是我的书，那本是你的。3\. 他自学了英语。4\. 这些书是我的，那些是他的。5\. 没有人知道答案。
+10. 1\. She 主语；2\. him 宾语；3\. mine 表语；4\. himself 宾语；5\. What 宾语。
 
-5. 判断对错并改正。1\. He is taller than me\. 2\. I don't have some money\. 3\. Both of them isn't here\. 4\. Another three students came\. 5\. Who did you see?
+11. 1\. Tom told Jerry, "I am wrong\." 或 Tom told Jerry, "You are wrong\." 2\. The teacher told the student, "You need to study harder\."
 
-6. 指出下列句子中代词充当的成分。1\. She likes music\. 2\. I saw him yesterday\. 3\. This book is mine\. 4\. He hurt himself\. 5\. What do you want?
-
-7. 用英语改写下列句子，消除指代歧义。1\. Tom told Jerry that he was wrong\. 2\. The teacher told the student that he needed to study harder\.
-
-8. 用英语写五个句子，分别包含人称代词、物主代词、反身代词、指示代词和不定代词。
-
-参考答案：
-
-1. 1\. 改为 He and I are good friends\.（顺序和主格）2\. her 改为 hers。3\. it's 改为 its。4\. 改为 He did the work himself\. 5\. Every 改为 Each 或 Every one。
-
-2. 依次为 Yours、One the other、It、it、yourself。
-
-3. 1\. some 多用于肯定句，any 多用于否定句和疑问句；2\. few 几乎没有（否定），a few 有几个（肯定），都修饰可数；3\. little 几乎没有（否定），a little 有一点（肯定），都修饰不可数；4\. each 强调个体可作多种成分，every 强调整体只作定语；5\. none 可指人或物可接 of，no one 只指人不可接 of。
-
-4. 1\. He and I are good friends\. 2\. This is my book, that one is yours\. 3\. He taught himself English\. 4\. These books are mine, those are his\. 5\. No one knows the answer\.
-
-5. 1\. 对（口语）或正式用 than I；2\. 错，some 改为 any；3\. 错，isn't 改为 aren't；4\. 对；5\. 对（口语中 who 可代替 whom）。
-
-6. 1\. She 主语；2\. him 宾语；3\. mine 表语；4\. himself 宾语；5\. What 宾语。
-
-7. 1\. Tom told Jerry, "I am wrong\." 或 Tom told Jerry, "You are wrong\." 2\. The teacher told the student, "You need to study harder\."
-
-8. 开放题，示例：She is my sister\. This book is mine\. He hurt himself\. This is my book\. Somebody is coming\.
+12. 开放题，示例：She is my sister\. This book is mine\. He hurt himself\. This is my book\. Somebody is coming\.
 
 学完本章，你要能在写作和口语中选对代词的形式与指代，避免主格宾格混淆、指代不明和不一致等问题。下一步进入第六章，学习形容词和副词如何修饰名词与动词。

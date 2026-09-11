@@ -72,22 +72,6 @@ as 和 which 引导非限制性定语从句的区别是：as 引导的从句可�
 |去掉后影响|主句意思不完整|主句意思仍完整|
 |译法|"……的"|另起一句补充|
 
-下面三道题对应本节的检查项：关系代词选择、关系副词与关系代词区分、非限制性定语从句。请先独立完成，再核对答案。
-
-1. 选择关系词：The girl \_\_\_\_\_\_ is singing is my sister\. / The girl \_\_\_\_\_\_ I met is my sister\.（who / whom）
-
-2. 选择关系词：This is the place \_\_\_\_\_\_ we met\. / This is the place \_\_\_\_\_\_ we visited\.（which / where）
-
-3. 改正：The movie, that I saw last night, was excellent\.
-
-参考答案：
-
-1. 第一个填 who（作主语），第二个填 whom（作宾语，口语可用 who）。
-
-2. 第一个填 where（从句 we met 缺地点状语），第二个填 which（从句 we visited 缺宾语）。
-
-3. 改为 The movie, which I saw last night, was excellent，非限制性定语从句不能用 that。
-
 ## 六、定语从句的主谓一致与分隔定语从句
 
 定语从句主谓一致的规则是：关系代词作从句主语时，从句谓语动词的人称和数要与先行词一致。公式为：先行词是单数加 who 或 which 或 that 加单数谓语。先行词是复数加 who 或 which 或 that 加复数谓语。
@@ -180,9 +164,9 @@ no matter 加疑问词和疑问词加 ever 的用法相同，都表示"无论…
 
 状语从句的常见错误有四类。第一类是时间和条件状语从句中用将来时，应该用一般现在时表示将来，即主将从现。第二类是 although 和 but 同时使用，二者只能用一个。第三类是 because 和 so 同时使用，二者只能用一个。第四类是状语从句省略时主语不一致，省略的前提是从句主语与主句主语相同。
 
-## 十五、单元练习
+## 十五、练习
 
-下面五道题对应本节的检查项：定语从句关系词选择、非限制性定语从句、状语从句时态呼应、让步状语从句连词、状语从句省略。请先独立完成，再核对答案。
+下面的练习覆盖本章全部要点：定语从句关系词选择、非限制性定语从句、状语从句时态呼应、让步状语从句连词、状语从句省略。请先独立完成，再对照参考答案核对。
 
 1. 选择关系词：This is the factory \_\_\_\_\_\_ my father works\. / This is the factory \_\_\_\_\_\_ my father built\.（which / where）
 
@@ -193,6 +177,22 @@ no matter 加疑问词和疑问词加 ever 的用法相同，都表示"无论…
 4. 改正：Although she was ill, but she went to work\.
 
 5. 判断能否省略：When I was walking in the park, I saw a bird\. / When it was raining, I stayed at home\.
+
+6. 选择关系词：The man \_\_\_\_\_\_ is talking to Mary is my teacher\. / The man \_\_\_\_\_\_ Mary is talking to is my teacher\. / The man \_\_\_\_\_\_ car is red is my teacher\.（who / whom / whose）
+
+7. 判断限制性还是非限制性，并说明能否用 that：My sister who lives in London is a doctor\. / My sister, who lives in London, is a doctor\.
+
+8. 用介词加关系代词改写：The man that I spoke to is a teacher\.
+
+9. 选择正确谓语：He is one of the students who \_\_\_\_\_\_ late\. / He is the only one of the students who \_\_\_\_\_\_ late\.（was / were）
+
+10. 填空：I will wait here until he \_\_\_\_\_\_ back\. / As soon as I \_\_\_\_\_\_ my work, I \_\_\_\_\_\_ home\.（come / finish / go）
+
+11. 判断真实条件还是虚拟条件，并翻译：If it rains tomorrow, we will stay at home\. / If I were you, I would accept the job\.
+
+12. 用 no matter 改写：Whatever you say, I won't change my mind\. / However hard the work is, we will finish it\.
+
+13. 改正省略错误：While reading the newspaper, the phone rang\.
 
 参考答案：
 
@@ -206,42 +206,20 @@ no matter 加疑问词和疑问词加 ever 的用法相同，都表示"无论…
 
 5. 第一句可以省略，从句主语 I 与主句主语 I 一致；第二句不能省略，从句主语 it 与主句主语 I 不一致，应写为 When it was raining, I stayed at home。
 
-## 十六、单元自测
+6. 依次填 who（作主语）、whom（作宾语，口语可用 who）、whose（作定语）。
 
-下面八道题对应本章的检查项：定语从句关系词选择、限制性与非限制性区别、介词加关系代词、定语从句主谓一致、时间状语从句引导词与时态、条件状语从句真实与虚拟、让步状语从句、状语从句省略。请先独立完成，再对照参考答案核对。
+7. 第一句是限制性定语从句，表示“我住在伦敦的那个姐姐”，暗示有多个姐姐，可以用 that；第二句是非限制性定语从句，补充说明“我姐姐住在伦敦”，只有一个姐姐，不能用 that。
 
-1. 选择关系词：The man \_\_\_\_\_\_ is talking to Mary is my teacher\. / The man \_\_\_\_\_\_ Mary is talking to is my teacher\. / The man \_\_\_\_\_\_ car is red is my teacher\.（who / whom / whose）
+8. 改为 The man to whom I spoke is a teacher。
 
-2. 判断限制性还是非限制性，并说明能否用 that：My sister who lives in London is a doctor\. / My sister, who lives in London, is a doctor\.
+9. 第一个填 were，先行词是 the students；第二个填 was，先行词是 the only one。
 
-3. 用介词加关系代词改写：The man that I spoke to is a teacher\.
+10. 第一个填 comes，主将从现；第二个填 finish 和 will go。
 
-4. 选择正确谓语：He is one of the students who \_\_\_\_\_\_ late\. / He is the only one of the students who \_\_\_\_\_\_ late\.（was / were）
+11. 第一句是真实条件句，“如果明天下雨，我们就待在家里”；第二句是虚拟条件句，与现在事实相反，“如果我是你，我会接受这份工作”。
 
-5. 填空：I will wait here until he \_\_\_\_\_\_ back\. / As soon as I \_\_\_\_\_\_ my work, I \_\_\_\_\_\_ home\.（come / finish / go）
+12. 改为 No matter what you say, I won't change my mind\. 和 No matter how hard the work is, we will finish it。
 
-6. 判断真实条件还是虚拟条件，并翻译：If it rains tomorrow, we will stay at home\. / If I were you, I would accept the job\.
+13. 改为 While I was reading the newspaper, the phone rang，从句主语 I 与主句主语 the phone 不一致，不能省略。
 
-7. 用 no matter 改写：Whatever you say, I won't change my mind\. / However hard the work is, we will finish it\.
-
-8. 改正省略错误：While reading the newspaper, the phone rang\.
-
-参考答案：
-
-1. 依次填 who（作主语）、whom（作宾语，口语可用 who）、whose（作定语）。
-
-2. 第一句是限制性定语从句，表示“我住在伦敦的那个姐姐”，暗示有多个姐姐，可以用 that；第二句是非限制性定语从句，补充说明“我姐姐住在伦敦”，只有一个姐姐，不能用 that。
-
-3. 改为 The man to whom I spoke is a teacher。
-
-4. 第一个填 were，先行词是 the students；第二个填 was，先行词是 the only one。
-
-5. 第一个填 comes，主将从现；第二个填 finish 和 will go。
-
-6. 第一句是真实条件句，“如果明天下雨，我们就待在家里”；第二句是虚拟条件句，与现在事实相反，“如果我是你，我会接受这份工作”。
-
-7. 改为 No matter what you say, I won't change my mind\. 和 No matter how hard the work is, we will finish it。
-
-8. 改为 While I was reading the newspaper, the phone rang，从句主语 I 与主句主语 the phone 不一致，不能省略。
-
-学完本章，你可以用这八道题检验掌握程度，做错的题回到对应小节重读，然后进入第十四章学习虚拟语气。
+学完本章，你可以用本章练习检验掌握程度，做错的题回到对应小节重读，然后进入第十四章学习虚拟语气。

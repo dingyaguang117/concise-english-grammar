@@ -115,9 +115,9 @@ since 与 for 的区别是现在完成时的高频考点。for 后面接时间�
 
 第四个易错点是完成进行时与完成时的结果差异。I have been writing the report\. 只说明一直在写报告，不强调是否写完。I have written the report\. 则强调报告已经写完。在需要明确表达完成结果的语境中，应该用现在完成时而非现在完成进行时。在需要强调动作持续时间长、可能还在进行的语境中，用现在完成进行时。
 
-## 七、本章练习
+## 七、练习
 
-下面五道题对应本章的检查项：进行时态的构成与用法、完成时态的构成与用法、现在完成时与一般过去时的区别、since 与 for 的选择、时态呼应规则。请先独立完成，再对照参考答案核对。
+下面的练习覆盖本章全部要点：进行时态的构成与用法、完成时态的构成与用法、现在完成时与一般过去时的区别、since 与 for 的选择、时态呼应规则。请先独立完成，再对照参考答案核对。
 
 1. 用括号内动词的正确形式填空。Listen\! Someone \_\_\_ \(knock\) at the door\. I \_\_\_ \(read\) a novel when she called\. This time tomorrow, I \_\_\_ \(fly\) to Tokyo\.
 
@@ -128,6 +128,22 @@ since 与 for 的区别是现在完成时的高频考点。for 后面接时间�
 4. 改正下列句子中的错误。I am knowing him very well\. She has gone to Paris last week\. I have been finishing my homework, so I can go out now\.
 
 5. 用时态呼应规则改写下列句子。She says, "I am tired\." → She said that \_\_\_\. He says, "I will come tomorrow\." → He said that \_\_\_\. They say, "We have finished the work\." → They said that \_\_\_\.
+
+6. 选择正确答案。I \_\_\_ TV when the light went out\. A\. watched B\. was watching C\. have watched D\. had watched
+
+7. 用括号内动词的正确形式填空。By the end of last month, I \_\_\_ \(read\) five novels\. She \_\_\_ \(study\) in this school for three years before she graduated\. I \_\_\_ \(wait\) for you for an hour\. Where have you been?
+
+8. 判断下列句子的时态是否正确，错误的请改正。I have seen him three days ago\. She is loving classical music\. He has been working since three hours\. By this time next year, I will graduate from college\.
+
+9. 用 since 或 for 填空，并说明理由。I have been learning to play the piano \_\_\_ I was six years old\. They have been living in this city \_\_\_ more than twenty years\. The meeting has been going on \_\_\_ two hours\.
+
+10. 翻译下列句子，注意时态的选择。我已经等了半个小时了。（现在仍在等）我等了半个小时，然后就走了。到去年年底，他已经学了十年英语了。明天这个时候，我将正在海滩上晒太阳。
+
+11. 时态呼应：将下列直接引语改为间接引语。He said, "I am reading a book\." She said, "I will call you later\." They said, "We have finished the project\." The teacher said, "The sun rises in the east\."
+
+12. 区分现在完成时与现在完成进行时：用两种时态分别翻译"我写了一下午信"，并说明含义差异。
+
+13. 综合题：用英语写一个小故事（五到八句话），至少使用四种不同的时态，每句话配中文翻译，并标注每句话使用的时态。
 
 参考答案：
 
@@ -141,42 +157,20 @@ since 与 for 的区别是现在完成时的高频考点。for 后面接时间�
 
 5. 依次为 she was tired、he would come the next day、they had finished the work。
 
-## 八、本章自测
+6. 选 B，灯灭的时候我正在看电视，用过去进行时。
 
-下面是本章自测清单，八道题覆盖全部要点，难度从基础到综合递进。请在不翻看前文的情况下独立完成，然后对照参考答案。做错的题回到对应小节重读，确保每个错误点都被纠正。
+7. 依次为 had read、had studied、have been waiting。
 
-1. 选择正确答案。I \_\_\_ TV when the light went out\. A\. watched B\. was watching C\. have watched D\. had watched
+8. 第一句错误，have seen 改为 saw（three days ago 与一般过去时搭配）；第二句错误，is loving 改为 loves（love 是状态动词不用于进行时）；第三句错误，since 改为 for（three hours 是时间段）；第四句错误，will graduate 改为 will have graduated（by this time next year 表示到将来某时已完成，用将来完成时）。
 
-2. 用括号内动词的正确形式填空。By the end of last month, I \_\_\_ \(read\) five novels\. She \_\_\_ \(study\) in this school for three years before she graduated\. I \_\_\_ \(wait\) for you for an hour\. Where have you been?
+9. 依次为 since（I was six 是时间点）、for（more than twenty years 是时间段）、for（two hours 是时间段）。
 
-3. 判断下列句子的时态是否正确，错误的请改正。I have seen him three days ago\. She is loving classical music\. He has been working since three hours\. By this time next year, I will graduate from college\.
+10. 依次为 I have been waiting for half an hour\. / I waited for half an hour and then left\. / By the end of last year, he had studied English for ten years\. / This time tomorrow, I will be lying on the beach\.
 
-4. 用 since 或 for 填空，并说明理由。I have been learning to play the piano \_\_\_ I was six years old\. They have been living in this city \_\_\_ more than twenty years\. The meeting has been going on \_\_\_ two hours\.
+11. 依次为 He said that he was reading a book\. / She said that she would call me later\. / They said that they had finished the project\. / The teacher said that the sun rises in the east\.（客观真理时态不变）
 
-5. 翻译下列句子，注意时态的选择。我已经等了半个小时了。（现在仍在等）我等了半个小时，然后就走了。到去年年底，他已经学了十年英语了。明天这个时候，我将正在海滩上晒太阳。
+12. I have written letters all afternoon\. 强调一下午写了信这个结果，可能已经写完。I have been writing letters all afternoon\. 强调写信这个动作持续了一下午，可能还在写或刚停下。
 
-6. 时态呼应：将下列直接引语改为间接引语。He said, "I am reading a book\." She said, "I will call you later\." They said, "We have finished the project\." The teacher said, "The sun rises in the east\."
-
-7. 区分现在完成时与现在完成进行时：用两种时态分别翻译"我写了一下午信"，并说明含义差异。
-
-8. 综合题：用英语写一个小故事（五到八句话），至少使用四种不同的时态，每句话配中文翻译，并标注每句话使用的时态。
-
-参考答案：
-
-1. 选 B，灯灭的时候我正在看电视，用过去进行时。
-
-2. 依次为 had read、had studied、have been waiting。
-
-3. 第一句错误，have seen 改为 saw（three days ago 与一般过去时搭配）；第二句错误，is loving 改为 loves（love 是状态动词不用于进行时）；第三句错误，since 改为 for（three hours 是时间段）；第四句错误，will graduate 改为 will have graduated（by this time next year 表示到将来某时已完成，用将来完成时）。
-
-4. 依次为 since（I was six 是时间点）、for（more than twenty years 是时间段）、for（two hours 是时间段）。
-
-5. 依次为 I have been waiting for half an hour\. / I waited for half an hour and then left\. / By the end of last year, he had studied English for ten years\. / This time tomorrow, I will be lying on the beach\.
-
-6. 依次为 He said that he was reading a book\. / She said that she would call me later\. / They said that they had finished the project\. / The teacher said that the sun rises in the east\.（客观真理时态不变）
-
-7. I have written letters all afternoon\. 强调一下午写了信这个结果，可能已经写完。I have been writing letters all afternoon\. 强调写信这个动作持续了一下午，可能还在写或刚停下。
-
-8. 开放题，只要时态使用正确、故事连贯即可。
+13. 开放题，只要时态使用正确、故事连贯即可。
 
 学完第八章和第九章，你已经掌握了英语时态的完整体系。接下来，你可以进入第十章学习被动语态，看看时态如何与被动语态结合，以及情态动词如何表达说话人的态度和推测。

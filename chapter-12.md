@@ -53,22 +53,6 @@
 
 区分 that 和 what 的策略，是看从句是否缺少成分。从句结构完整用 that，从句缺少主语或宾语用 what。例如 I know that he came\.（我知道他来了。）从句 he came 完整，用 that。I know what he did\.（我知道他做了什么。）从句 he did 缺少宾语，用 what。
 
-下面三道题对应本节的检查项：句子结构分类、并列连词选择、名词性从句引导词判断。请先独立完成，再核对答案。
-
-1. 判断句子结构：He runs fast\. / He runs fast, and she swims well\. / He said that he was tired\.
-
-2. 填并列连词：I wanted to go, \_\_\_\_\_\_ I had no time\. / Hurry up, \_\_\_\_\_\_ you'll be late\.
-
-3. 选引导词：\_\_\_\_\_\_ he needs is more time\.（that / what）
-
-参考答案：
-
-1. 依次为简单句、并列句、复合句。
-
-2. 依次填 but（转折）、or（否则）。
-
-3. 选 what，从句 he needs 缺宾语。
-
 ## 五、主语从句
 
 主语从句的规则是：从句在主句中充当主语。主语从句可以直接放在句首，也可以用 it 作形式主语，把从句移到句末。直接放在句首的主语从句多用于正式文体，日常表达中更常用 it 作形式主语的结构，避免句子头重脚轻。
@@ -133,9 +117,9 @@ that 省略的规则是：that 引导宾语从句时，在口语和非正式文�
 
 名词性从句的常见错误有四类。第一类是 that 和 what 混用，从句缺成分用 what，不缺成分用 that。第二类是 if 和 whether 混用，引导主语从句、表语从句、同位语从句和介词后的宾语从句时只能用 whether，不能用 if。第三类是宾语从句的时态呼应错误，主句过去时时从句没有相应改为过去时态。第四类是否定转移错误，在 I think 等结构中没有把否定转移到主句。
 
-## 十一、单元练习
+## 十一、练习
 
-下面五道题对应本节的检查项：并列句标点、名词性从句引导词选择、时态呼应、否定转移、同位语从句与定语从句区分。请先独立完成，再核对答案。
+下面的练习覆盖本章全部要点：并列句标点、名词性从句引导词选择、时态呼应、否定转移、同位语从句与定语从句区分。请先独立完成，再对照参考答案核对。
 
 1. 改正句子：She was very happy, she jumped up and down\.
 
@@ -146,6 +130,22 @@ that 省略的规则是：that 引导宾语从句时，在口语和非正式文�
 4. 改正否定转移：I think that he won't come\.
 
 5. 判断从句类型：The news that he told me is true\.（同位语从句 / 定语从句）
+
+6. 判断下列句子的结构类型：She sings well\. / She sings well, and he plays the piano\. / She said that she was tired\.
+
+7. 用适当的并列连词填空：I wanted to go, \_\_\_\_\_\_ I had no time\. / Hurry up, \_\_\_\_\_\_ you'll be late\. / It was late, \_\_\_\_\_\_ I went home\.
+
+8. 选择引导词：\_\_\_\_\_\_ we need is more practice\. / I don't know \_\_\_\_\_\_ he will come or not\. / The problem is \_\_\_\_\_\_ we can solve it\.
+
+9. 改写句子，用 it 作形式主语：That he should refuse the offer is strange\.
+
+10. 改正时态呼应错误：She told me that she is going to study abroad\.
+
+11. 改正否定转移：I believe that he is not honest\.
+
+12. 判断下列从句是同位语从句还是定语从句：The fact that he wrote the letter is clear\. / The letter that he wrote is clear\.
+
+13. 用虚拟语气改写：The teacher suggested that we read more\.（写出 should 的完整形式和省略形式）
 
 参考答案：
 
@@ -159,42 +159,20 @@ that 省略的规则是：that 引导宾语从句时，在口语和非正式文�
 
 5. 是定语从句，that 在从句中作 told 的宾语，且 news 后加 is 变成 The news is that he told me 意思不通。
 
-## 十二、单元自测
+6. 依次为简单句、并列句、复合句。
 
-下面八道题对应本章的检查项：句子结构分类、并列句构成与标点、名词性从句引导词、主语从句的形式主语、宾语从句的时态呼应与否定转移、表语从句、同位语从句与定语从句的区别、名词性从句的虚拟语气。请先独立完成，再对照参考答案核对。
+7. 依次填 but（转折）、or（否则）、so（结果）。
 
-1. 判断下列句子的结构类型：She sings well\. / She sings well, and he plays the piano\. / She said that she was tired\.
+8. 依次填 What（从句 need 缺宾语）、whether（or not 搭配）、how（表方式）。
 
-2. 用适当的并列连词填空：I wanted to go, \_\_\_\_\_\_ I had no time\. / Hurry up, \_\_\_\_\_\_ you'll be late\. / It was late, \_\_\_\_\_\_ I went home\.
+9. 改为 It is strange that he should refuse the offer\.
 
-3. 选择引导词：\_\_\_\_\_\_ we need is more practice\. / I don't know \_\_\_\_\_\_ he will come or not\. / The problem is \_\_\_\_\_\_ we can solve it\.
+10. 改为 She told me that she was going to study abroad\. 主句过去时，从句用过去将来时。
 
-4. 改写句子，用 it 作形式主语：That he should refuse the offer is strange\.
+11. 改为 I don't believe that he is honest\.
 
-5. 改正时态呼应错误：She told me that she is going to study abroad\.
+12. 第一句是同位语从句，that 不充当成分，fact 后加 is 通顺；第二句是定语从句，that 在从句中作 wrote 的宾语。
 
-6. 改正否定转移：I believe that he is not honest\.
+13. 完整形式为 The teacher suggested that we should read more，省略形式为 The teacher suggested that we read more。
 
-7. 判断下列从句是同位语从句还是定语从句：The fact that he wrote the letter is clear\. / The letter that he wrote is clear\.
-
-8. 用虚拟语气改写：The teacher suggested that we read more\.（写出 should 的完整形式和省略形式）
-
-参考答案：
-
-1. 依次为简单句、并列句、复合句。
-
-2. 依次填 but（转折）、or（否则）、so（结果）。
-
-3. 依次填 What（从句 need 缺宾语）、whether（or not 搭配）、how（表方式）。
-
-4. 改为 It is strange that he should refuse the offer\.
-
-5. 改为 She told me that she was going to study abroad\. 主句过去时，从句用过去将来时。
-
-6. 改为 I don't believe that he is honest\.
-
-7. 第一句是同位语从句，that 不充当成分，fact 后加 is 通顺；第二句是定语从句，that 在从句中作 wrote 的宾语。
-
-8. 完整形式为 The teacher suggested that we should read more，省略形式为 The teacher suggested that we read more。
-
-学完本章，你可以用这八道题检验掌握程度，做错的题回到对应小节重读，然后进入第十三章学习定语从句与状语从句。
+学完本章，你可以用本章练习检验掌握程度，做错的题回到对应小节重读，然后进入第十三章学习定语从句与状语从句。

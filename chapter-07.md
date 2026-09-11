@@ -106,9 +106,9 @@ so 表示因果关系，连接结果。It was raining, so we stayed at home\. �
 
 第四个易错点是 or 和 and 在否定句中的混用。I don't like coffee and tea\. 容易产生歧义，应该用 or 表示两者都不喜欢。第五个易错点是 for 作连词时放在句首。For it was raining, we stayed at home\. 是错误的，for 作并列连词只能放在两个分句之间，不能放在句首。
 
-## 九、单元练习
+## 九、练习
 
-下面五道题对应本章的检查项：介词短语的句法功能、易混介词辨析、介词搭配、并列连词用法、连词易错点。请先独立完成，再对照答案。
+下面的练习覆盖本章全部要点：介词短语的句法功能、易混介词辨析、介词搭配、并列连词用法、连词易错点。请先独立完成，再对照参考答案核对。
 
 1. 指出下列介词短语的句法功能。the man in the car / He is in the car / He works in the car / We found him in the car\.
 
@@ -119,6 +119,22 @@ so 表示因果关系，连接结果。It was raining, so we stayed at home\. �
 4. 用 across 或 through 填空。The cat walked \(across / through\) the room\. / The cat jumped \(across / through\) the wall\.
 
 5. 用 FANBOYS 中的并列连词连接两个句子。He was tired\. He went to bed early\.（用 so）/ She is smart\. She is lazy\.（用 but）
+
+6. 翻译句子：桌子上的书是我的。（用介词短语作定语）
+
+7. 选择正确介词：We arrived \(in / at / on\) the station \(in / at / on\) 3 o'clock\.
+
+8. 改正错误：The key of success is hard work\.
+
+9. 说明 for 和 because 表示原因时的区别。
+
+10. 用 between 或 among 填空：The village lies \(between / among\) the mountains\. / She sat \(between / among\) the two boys\.
+
+11. 改正错误：I don't like apples and bananas\.（表示两者都不喜欢）
+
+12. 说明并列连词和从属连词的根本区别。
+
+13. 翻译句子：他不仅聪明，而且勤奋。（用 not only\.\.\.but also 结构）
 
 参考答案：
 
@@ -132,42 +148,20 @@ so 表示因果关系，连接结果。It was raining, so we stayed at home\. �
 
 5. 依次为 He was tired, so he went to bed early\. 和 She is smart, but she is lazy\.
 
-## 十、单元自测
+6. 译为 The book on the desk is mine\.，on the desk 作后置定语修饰 book。
 
-下面是本章自测清单，八道题覆盖全部要点，请在不看前文的情况下独立完成，然后对照参考答案。做错的题回到对应小节重读。
+7. 依次填 at 和 at，station 是具体小场所用 at，3 o'clock 是具体时刻用 at。
 
-1. 翻译句子：桌子上的书是我的。（用介词短语作定语）
+8. 改为 The key to success is hard work\.，key 和 to 是固定搭配。
 
-2. 选择正确介词：We arrived \(in / at / on\) the station \(in / at / on\) 3 o'clock\.
+9. because 语气强，引导原因状语从句，可放在句首或句中；for 语气弱，是并列连词，只能放在两个分句之间，对前一分句补充说明原因。
 
-3. 改正错误：The key of success is hard work\.
+10. 第一空填 among（群山之间，三者以上），第二空填 between（两个男孩之间）。
 
-4. 说明 for 和 because 表示原因时的区别。
+11. 改为 I don't like apples or bananas\.，否定句中用 or 代替 and。
 
-5. 用 between 或 among 填空：The village lies \(between / among\) the mountains\. / She sat \(between / among\) the two boys\.
+12. 并列连词连接地位平等的成分，两部分都可独立成句；从属连词引导从句，从句不能独立成句，必须依附主句。
 
-6. 改正错误：I don't like apples and bananas\.（表示两者都不喜欢）
-
-7. 说明并列连词和从属连词的根本区别。
-
-8. 翻译句子：他不仅聪明，而且勤奋。（用 not only\.\.\.but also 结构）
-
-参考答案：
-
-1. 译为 The book on the desk is mine\.，on the desk 作后置定语修饰 book。
-
-2. 依次填 at 和 at，station 是具体小场所用 at，3 o'clock 是具体时刻用 at。
-
-3. 改为 The key to success is hard work\.，key 和 to 是固定搭配。
-
-4. because 语气强，引导原因状语从句，可放在句首或句中；for 语气弱，是并列连词，只能放在两个分句之间，对前一分句补充说明原因。
-
-5. 第一空填 among（群山之间，三者以上），第二空填 between（两个男孩之间）。
-
-6. 改为 I don't like apples or bananas\.，否定句中用 or 代替 and。
-
-7. 并列连词连接地位平等的成分，两部分都可独立成句；从属连词引导从句，从句不能独立成句，必须依附主句。
-
-8. 译为 He is not only smart but also hard\-working\.
+13. 译为 He is not only smart but also hard\-working\.
 
 学完本章，你要能在写作中自动检查介词搭配和连词使用是否正确。下一步进入第八章，开始学习动词时态，这是全书最核心也最庞大的模块。

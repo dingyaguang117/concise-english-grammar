@@ -56,9 +56,9 @@ because 和 so 不能同时出现在一个句子里。Because he was tired, so h
 
 衔接词滥用会让段落显得生硬。每句话前面都加一个衔接词，反而会打断阅读节奏。策略是：只有当句子之间的逻辑关系不够明显时才加衔接词，如果前后句的关系已经通过内容和语序表达清楚了，就可以省略。一段五句话的文字，通常有一到两个衔接词就足够了。
 
-## 五、练习：段落改写与衔接分析
+## 五、练习
 
-下面的练习覆盖本章的检查项：时态呼应、衔接词选择、指代清晰、省略合法性和段落连贯。请先独立完成，再对照参考答案。
+下面的练习覆盖本章全部要点：时态呼应、衔接词选择、指代清晰、省略合法性和段落连贯。请先独立完成，再对照参考答案核对。
 
 1. 时态呼应改写。将下列直接引语改为间接引语。She said, "I am reading a book\." / He said, "I will finish the work tomorrow\." / They said, "We have visited the museum\."
 
@@ -70,7 +70,23 @@ because 和 so 不能同时出现在一个句子里。Because he was tired, so h
 
 5. 段落改写。下面的段落时态混乱、缺少衔接，请改写为连贯的段落。Yesterday I go to the library\. I borrow three books\. The books is interesting\. I read one now\. My friend come to my house\. We discuss the book\.
 
-参考答案
+6. 语篇衔接的三大手段是什么？各举一例。
+
+7. 主句为过去时时，宾语从句的时态有什么规则？有什么例外？
+
+8. 将 He said, "I have finished my homework\." 改为间接引语。
+
+9. 判断下列句子是否正确，错误的请改正：Because it was raining, so we stayed home\.
+
+10. 指出下列句子中的替代现象：I need a dictionary\. Do you have one? / He asked me to leave, and I did so\.
+
+11. 下列句子中的省略是否合法？When young, he studied hard\. / If possible, come early\.
+
+12. 分析下面段落的衔接手段：The old man lived alone\. His house was small but clean\. Every morning, he walked to the market\. There, he bought fresh vegetables\. Then he returned home and cooked breakfast\. This routine had not changed for twenty years\.
+
+13. 用至少三种衔接手段写一个五句话的段落，主题是"一次难忘的旅行"。
+
+参考答案：
 
 1. 时态呼应改写。She said \(that\) she was reading a book\. / He said \(that\) he would finish the work the next day\. / They said \(that\) they had visited the museum\. 要点：主句用过去时，从句时态向后退一格——现在进行时退为过去进行时，一般将来时退为过去将来时（will 变 would），现在完成时退为过去完成时；tomorrow 相应改为 the next day。
 
@@ -82,42 +98,20 @@ because 和 so 不能同时出现在一个句子里。Because he was tired, so h
 
 5. 段落改写。参考改写：Yesterday I went to the library and borrowed three books\. The books were interesting, so I began reading one as soon as I got home\. Later, my friend came to my house, and we discussed the book together\. 修改要点：① 时态统一为一般过去时（go→went、borrow→borrowed、come→came、discuss→discussed）；② 主谓一致，The books is interesting 改为 The books were interesting；③ 用 and、so、Later 等衔接词标明动作的先后与因果，使时间线清晰。
 
-## 六、单元自测
+6. 语法衔接（代词指代、替代、省略、时态一致）、词汇衔接（重复、同义、反义、上下义、搭配）、逻辑衔接（连接词）。举例略。
 
-下面八道题对应本章的检查项：能否说清语篇衔接的三种手段、能否正确处理时态呼应、能否选择合适的衔接词、能否判断指代是否清晰、能否识别省略的合法性、能否分析段落的衔接手段。请先独立完成，再对照参考答案。
+7. 从句通常用过去范畴的时态，例外是从句陈述客观真理时可用一般现在时。
 
-1. 语篇衔接的三大手段是什么？各举一例。
+8. He said that he had finished his homework\.
 
-2. 主句为过去时时，宾语从句的时态有什么规则？有什么例外？
+9. 错误，because 和 so 不能同时使用，改为 Because it was raining, we stayed home\. 或 It was raining, so we stayed home\.
 
-3. 将 He said, "I have finished my homework\." 改为间接引语。
+10. one 替代 a dictionary，did so 替代 asked me to leave 这个动作。
 
-4. 判断下列句子是否正确，错误的请改正：Because it was raining, so we stayed home\.
+11. 两句都合法，第一句省略了 he was，第二句省略了 it is。
 
-5. 指出下列句子中的替代现象：I need a dictionary\. Do you have one? / He asked me to leave, and I did so\.
+12. his 回指 the old man，there 回指 the market，then 表示时间顺序，this routine 回指前面整段描述的日常活动，but 表示转折。
 
-6. 下列句子中的省略是否合法？When young, he studied hard\. / If possible, come early\.
-
-7. 分析下面段落的衔接手段：The old man lived alone\. His house was small but clean\. Every morning, he walked to the market\. There, he bought fresh vegetables\. Then he returned home and cooked breakfast\. This routine had not changed for twenty years\.
-
-8. 用至少三种衔接手段写一个五句话的段落，主题是"一次难忘的旅行"。
-
-参考答案：
-
-1. 第一题，语法衔接（代词指代、替代、省略、时态一致）、词汇衔接（重复、同义、反义、上下义、搭配）、逻辑衔接（连接词）。举例略。
-
-2. 第二题，从句通常用过去范畴的时态，例外是从句陈述客观真理时可用一般现在时。
-
-3. 第三题，He said that he had finished his homework\.
-
-4. 第四题，错误，because 和 so 不能同时使用，改为 Because it was raining, we stayed home\. 或 It was raining, so we stayed home\.
-
-5. 第五题，one 替代 a dictionary，did so 替代 asked me to leave 这个动作。
-
-6. 第六题，两句都合法，第一句省略了 he was，第二句省略了 it is。
-
-7. 第七题，his 回指 the old man，there 回指 the market，then 表示时间顺序，this routine 回指前面整段描述的日常活动，but 表示转折。
-
-8. 第八题为开放题，评分时检查是否使用了至少三种衔接手段且时态一致。
+13. 开放题，评分时检查是否使用了至少三种衔接手段且时态一致。
 
 学完这一章，全书的语法体系就完整了。从第一章的句子骨架，到第十五章的特殊句式，再到本章的语篇衔接，你已经掌握了把词组成句、把句组成段的全部规则。下一步可以做的，是用附录一的易错点速查做一次全面自检，把还不牢固的知识点标出来，然后回到对应章节重读。语法学习没有终点，持续在写作和口语中运用这些规则，才能真正把它们变成自己的语言能力。

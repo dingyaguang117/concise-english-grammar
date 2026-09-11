@@ -116,9 +116,9 @@ as\.\.\.as 表示两者程度相同，中间用形容词或副词的原级。公
 
 第四个易错点是比较级和最高级的修饰语混用。very 只能修饰原级，much 修饰比较级，by far 修饰最高级。very good、much better、by far the best 是正确搭配。第五个易错点是在 as\.\.\.as 结构中用比较级，as taller as 是错误的，必须用原级 as tall as。
 
-## 十、单元练习
+## 十、练习
 
-下面五道题对应本章的检查项：形容词的句法功能、副词的位置、形容词与副词辨析、比较级构成、比较结构用法。请先独立完成，再对照答案。
+下面的练习覆盖本章全部要点：形容词的句法功能、副词的位置、形容词与副词辨析、比较级构成、比较结构用法。请先独立完成，再对照参考答案核对。
 
 1. 指出下列句子中形容词的句法功能。She is happy\. / a happy girl / We made her happy\.
 
@@ -129,6 +129,22 @@ as\.\.\.as 表示两者程度相同，中间用形容词或副词的原级。公
 4. 写出下列词的比较级和最高级。good、big、beautiful、little、far
 
 5. 改正下列比较结构中的错误。He is more taller than me\. / This book is as more interesting as that one\.
+
+6. 判断对错并改正：形容词只能放在名词前面作定语。
+
+7. 翻译句子：她是我认识的最勤奋的学生之一。
+
+8. 选择正确形式：The soup tastes \(good / well\)\.
+
+9. 用 the\+比较级\.\.\.the\+比较级 结构造句：你练习得越多，英语就说得越好。
+
+10. 指出 something wrong 中形容词的位置并说明原因。
+
+11. 改正错误：The weather in Harbin is colder than Guangzhou\.
+
+12. 写出 carefully、happy、bad、much、old 的比较级和最高级。
+
+13. 说明 often 在 He often plays football\. 和 He is often late\. 中的位置规则。
 
 参考答案：
 
@@ -142,42 +158,20 @@ as\.\.\.as 表示两者程度相同，中间用形容词或副词的原级。公
 
 5. 第一句去掉 more，改为 He is taller than me\.；第二句把 more interesting 改为原级 interesting，即 This book is as interesting as that one\.
 
-## 十一、单元自测
+6. 错误，形容词还可以作表语和宾补，也可以后置作定语。
 
-下面是本章自测清单，八道题覆盖全部要点，请在不看前文的情况下独立完成，然后对照参考答案。做错的题回到对应小节重读。
+7. 译为 She is one of the most hard\-working students I know\.。
 
-1. 判断对错并改正：形容词只能放在名词前面作定语。
+8. 选 good，因为 taste 是系动词，后面接形容词作表语。
 
-2. 翻译句子：她是我认识的最勤奋的学生之一。
+9. 译为 The more you practice, the better you will speak English\.。
 
-3. 选择正确形式：The soup tastes \(good / well\)\.
+10. wrong 后置，因为被修饰的 something 是不定代词，形容词修饰不定代词时必须后置。
 
-4. 用 the\+比较级\.\.\.the\+比较级 结构造句：你练习得越多，英语就说得越好。
+11. 改为 The weather in Harbin is colder than that in Guangzhou\.，用 that 代替 weather 保持比较对象对等。
 
-5. 指出 something wrong 中形容词的位置并说明原因。
+12. 依次为 carefully→more carefully→most carefully，happy→happier→happiest，bad→worse→worst，much→more→most，old→older/elder→oldest/eldest。
 
-6. 改正错误：The weather in Harbin is colder than Guangzhou\.
-
-7. 写出 carefully、happy、bad、much、old 的比较级和最高级。
-
-8. 说明 often 在 He often plays football\. 和 He is often late\. 中的位置规则。
-
-参考答案：
-
-1. 错误，形容词还可以作表语和宾补，也可以后置作定语。
-
-2. 译为 She is one of the most hard\-working students I know\.。
-
-3. 选 good，因为 taste 是系动词，后面接形容词作表语。
-
-4. 译为 The more you practice, the better you will speak English\.。
-
-5. wrong 后置，因为被修饰的 something 是不定代词，形容词修饰不定代词时必须后置。
-
-6. 改为 The weather in Harbin is colder than that in Guangzhou\.，用 that 代替 weather 保持比较对象对等。
-
-7. 依次为 carefully→more carefully→most carefully，happy→happier→happiest，bad→worse→worst，much→more→most，old→older/elder→oldest/eldest。
-
-8. often 放在实义动词 plays 之前、be 动词 is 之后，这是频率副词的基本位置规则。
+13. often 放在实义动词 plays 之前、be 动词 is 之后，这是频率副词的基本位置规则。
 
 学完本章，你要能在写作和口语中自动检查形容词和副词的位置与形式。下一步进入第七章，学习介词和连词如何把词和句子连接起来。

@@ -112,9 +112,9 @@
 
 这张表覆盖了本章最容易出错的六个检查项。学习时的方法是先遮住正确形式，自己判断错误形式哪里不对，再核对答案。不过，语法规则总有例外，真实语料中可能出现表中未覆盖的特殊用法，遇到时结合语境判断即可。
 
-## 四、单元练习
+## 四、练习
 
-下面五道题对应本章的核心检查项：被动语态的构成、主动变被动的转换、情态动词的选用、情态动词加have done的含义。请先独立完成，再对照参考答案。
+下面的练习覆盖本章全部要点：被动语态的构成、主动变被动的转换、情态动词的选用、情态动词加have done的含义。请先独立完成，再对照参考答案核对。
 
 1. 将下列主动句变为被动句。They built this bridge in 1990\. / She has written three novels\. / We will discuss the problem tomorrow\.
 
@@ -125,6 +125,22 @@
 4. 将下列句子译成英语。这座桥是1990年建的。/ 你本不必来这么早。/ 这项工作必须在周五前完成。
 
 5. 说明 must have done 和 should have done 的区别，并各造一个句子。
+
+6. 写出下列时态的被动形式（以动词 clean 为例）：一般现在时、一般过去时、现在进行时、现在完成时、一般将来时。
+
+7. 将主动句 The teacher gave the students a lot of homework\. 变为两种被动句。
+
+8. 将主动句 I heard her sing a song\. 变为被动句，注意不定式的变化。
+
+9. 用情态动词填空：She \_\_\_ speak French fluently\.（能力）/ \_\_\_ I borrow your pen?（委婉许可）/ You \_\_\_ smoke in the hospital\.（禁止）/ It \_\_\_ rain tomorrow\.（可能性，把握较小）
+
+10. 翻译句子：他不可能已经走了。/ 你本不必买这么多食物。/ 这个问题应该被讨论。
+
+11. 判断对错并改正：The room is being cleaned now\. / He can be the thief\. / The book was cost me 50 yuan\. / You needn't to worry about it\.
+
+12. 说明 can 和 be able to 在表示"成功做到"时的区别，并举例。
+
+13. 用"情态动词加have done"结构翻译：她一定已经到了。/ 你本不应该撒谎。/ 我本可以帮你的。
 
 参考答案：
 
@@ -138,42 +154,20 @@
 
 5. must have done 是对过去的肯定推测，意为“一定做了”，例如 She must have missed the bus\.（她一定是错过了公交车。）should have done 是对过去的评价，意为“本应该做却没做”，例如 You should have called me\.（你本应该给我打电话的。）
 
-## 五、单元自测
+6. 依次为 is/are cleaned、was/were cleaned、is/are being cleaned、has/have been cleaned、will be cleaned。
 
-下面是本章自测清单，八道题覆盖全部要点，用于检验你的综合掌握程度。请独立完成后对照参考答案，做错的题目回到对应小节重读。
+7. 两种形式为 The students were given a lot of homework\. 和 A lot of homework was given to the students\.
 
-1. 写出下列时态的被动形式（以动词 clean 为例）：一般现在时、一般过去时、现在进行时、现在完成时、一般将来时。
+8. 为 She was heard to sing a song\.
 
-2. 将主动句 The teacher gave the students a lot of homework\. 变为两种被动句。
+9. 依次为 can、Could/Might、mustn't、may/might。
 
-3. 将主动句 I heard her sing a song\. 变为被动句，注意不定式的变化。
+10. 依次为 He can't have left\. / You needn't have bought so much food\. / This problem should be discussed\.
 
-4. 用情态动词填空：She \_\_\_ speak French fluently\.（能力）/ \_\_\_ I borrow your pen?（委婉许可）/ You \_\_\_ smoke in the hospital\.（禁止）/ It \_\_\_ rain tomorrow\.（可能性，把握较小）
+11. 第一句正确，第二句错误应为 He may be the thief\.（肯定推测不用can），第三句错误应为 The book cost me 50 yuan\.（cost无被动），第四句错误应为 You needn't worry about it\.（need作情态动词后接动词原形）。
 
-5. 翻译句子：他不可能已经走了。/ 你本不必买这么多食物。/ 这个问题应该被讨论。
+12. 表示过去具体某次成功做到某事时用was/were able to，不用could，例如 He was able to pass the exam after months of hard work\.（经过数月努力，他成功通过了考试。）could表示过去的一般能力，不强调某次成功。
 
-6. 判断对错并改正：The room is being cleaned now\. / He can be the thief\. / The book was cost me 50 yuan\. / You needn't to worry about it\.
-
-7. 说明 can 和 be able to 在表示"成功做到"时的区别，并举例。
-
-8. 用"情态动词加have done"结构翻译：她一定已经到了。/ 你本不应该撒谎。/ 我本可以帮你的。
-
-参考答案：
-
-1. 依次为 is/are cleaned、was/were cleaned、is/are being cleaned、has/have been cleaned、will be cleaned。
-
-2. 两种形式为 The students were given a lot of homework\. 和 A lot of homework was given to the students\.
-
-3. 为 She was heard to sing a song\.
-
-4. 依次为 can、Could/Might、mustn't、may/might。
-
-5. 依次为 He can't have left\. / You needn't have bought so much food\. / This problem should be discussed\.
-
-6. 第一句正确，第二句错误应为 He may be the thief\.（肯定推测不用can），第三句错误应为 The book cost me 50 yuan\.（cost无被动），第四句错误应为 You needn't worry about it\.（need作情态动词后接动词原形）。
-
-7. 表示过去具体某次成功做到某事时用was/were able to，不用could，例如 He was able to pass the exam after months of hard work\.（经过数月努力，他成功通过了考试。）could表示过去的一般能力，不强调某次成功。
-
-8. 依次为 She must have arrived\. / You shouldn't have lied\. / I could have helped you\.
+13. 依次为 She must have arrived\. / You shouldn't have lied\. / I could have helped you\.
 
 学完这一章，你已经掌握了被动语态的构造和情态动词的用法。下一步可以进入第十一章，学习非谓语动词如何在句子中充当除谓语以外的各种成分，那里会继续用到本章的被动语态知识。

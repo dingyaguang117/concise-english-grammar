@@ -151,9 +151,9 @@ with的复合结构是独立主格结构的一种常见变体，形式是"with�
 
 非谓语动词的学习是一个长期过程，本章建立了基本框架，但真实语料中的用法更加丰富。建议你在阅读中遇到非谓语动词时，先判断它属于哪种形式、充当什么成分、逻辑主语是谁，养成分析习惯后，正确率会逐步提高。下一步可以进入第十四章，学习虚拟语气，那里会继续用到不定式和分词的知识。
 
-## 八、单元练习
+## 八、练习
 
-下面五道题对应本章的核心检查项：非谓语形式的选择、作宾语时的区别、分词作状语的逻辑主语、独立主格结构。请先独立完成，再对照参考答案。
+下面的练习覆盖本章全部要点：非谓语形式的选择、作宾语时的区别、分词作状语的逻辑主语、独立主格结构。请先独立完成，再对照参考答案核对。
 
 1. 用括号内动词的适当形式填空。I enjoy \_\_\_ \(read\) novels\. / He decided \_\_\_ \(study\) abroad\. / The book \_\_\_ \(write\) by him is popular\. / \_\_\_ \(see\) from the hill, the city is beautiful\.
 
@@ -164,6 +164,22 @@ with的复合结构是独立主格结构的一种常见变体，形式是"with�
 4. 将下列句子译成英语，注意使用非谓语动词。站在那里的那个人是我哥哥。/ 听到这个消息，她哭了。/ 工作完成后，我们回家了。/ 我有很多作业要做。
 
 5. 说明不定式、动名词、现在分词作定语时的区别，并各造一个句子。
+
+6. 写出动词 do 的不定式、动名词、现在分词的各种时态和语态形式（一般式、进行式、完成式及被动形式）。
+
+7. 用括号内动词的适当形式填空。She is said \_\_\_ \(write\) three novels\. / He pretended \_\_\_ \(read\) when I came in\. / The house \_\_\_ \(build\) now is large\. / \_\_\_ \(not know\) his address, I couldn't find his home\.
+
+8. 选择正确答案。I regret \_\_\_ \(telling/to tell\) you that you failed the exam\. / I can't help \_\_\_ \(laughing/to laugh\) when I heard the joke\. / Need the room \_\_\_ \(cleaning/to be cleaned\)? / He had his bike \_\_\_ \(repair/repaired\) yesterday\.
+
+9. 改正句子错误并说明原因。To learn English well, much practice is needed\. / Given more time, the work could be done better\. / The teacher came in, followed by some students\. / I found him waited at the gate\.
+
+10. 翻译句子。他进来时手里拿着一本书。/ 被告诉了很多次，他还是犯同样的错误。/ 我希望被邀请参加聚会。/ 由于没有公交车，我们只好步行回家。
+
+11. 说明现在分词和过去分词作状语时的区别，各举一例。
+
+12. 什么是独立主格结构？它和普通分词作状语有什么区别？
+
+13. 用非谓语动词改写下列句子。When he heard the news, he jumped with joy\. / Because he was ill, he didn't go to school\. / If weather permits, we will have a picnic\. / The boy who is standing there is my brother\.
 
 参考答案：
 
@@ -177,42 +193,20 @@ with的复合结构是独立主格结构的一种常见变体，形式是"with�
 
 5. 不定式作定语表示将要发生的动作，例如 I have a meeting to attend tomorrow\.（我明天有个会要参加。）动名词作定语表示名词的用途，例如 a swimming pool（游泳池）。现在分词作定语表示正在进行的主动动作，例如 the boy playing football（踢足球的男孩）。
 
-## 九、单元自测
+6. 不定式有 to do、to be doing、to have done、to have been doing、to be done、to have been done；动名词和现在分词有 doing、having done、being done、having been done。
 
-下面是本章自测清单，八道题覆盖全部要点，用于检验综合掌握程度。请独立完成后对照参考答案，做错的题目回到对应小节重读。
+7. 依次为 to have written、to be reading、being built、Not knowing。
 
-1. 写出动词 do 的不定式、动名词、现在分词的各种时态和语态形式（一般式、进行式、完成式及被动形式）。
+8. 依次为 to tell（遗憾要告知）、laughing（忍不住笑）、to be cleaned（need后可接doing或to be done，此处to be cleaned更明确）、repaired（过去分词作宾补）。
 
-2. 用括号内动词的适当形式填空。She is said \_\_\_ \(write\) three novels\. / He pretended \_\_\_ \(read\) when I came in\. / The house \_\_\_ \(build\) now is large\. / \_\_\_ \(not know\) his address, I couldn't find his home\.
+9. 第一句逻辑主语错误，应为 To learn English well, you need much practice\. 第二句正确。第三句正确。第四句应为 I found him waiting at the gate\.（him是wait的执行者，用现在分词）。
 
-3. 选择正确答案。I regret \_\_\_ \(telling/to tell\) you that you failed the exam\. / I can't help \_\_\_ \(laughing/to laugh\) when I heard the joke\. / Need the room \_\_\_ \(cleaning/to be cleaned\)? / He had his bike \_\_\_ \(repair/repaired\) yesterday\.
+10. 依次为 He came in, book in hand\. / Told many times, he still made the same mistake\. / I hope to be invited to the party\. / There being no bus, we had to walk home\.
 
-4. 改正句子错误并说明原因。To learn English well, much practice is needed\. / Given more time, the work could be done better\. / The teacher came in, followed by some students\. / I found him waited at the gate\.
+11. 中，现在分词作状语表示主动，逻辑主语是动作的执行者，例如 Walking in the park, I met a friend\. 过去分词作状语表示被动，逻辑主语是动作的承受者，例如 Seen from the hill, the city is beautiful\.
 
-5. 翻译句子。他进来时手里拿着一本书。/ 被告诉了很多次，他还是犯同样的错误。/ 我希望被邀请参加聚会。/ 由于没有公交车，我们只好步行回家。
+12. 独立主格结构由“名词或代词加非谓语或其他成分”构成，有自己独立的逻辑主语，和句子主语不一致；普通分词作状语时，逻辑主语必须和句子主语一致。
 
-6. 说明现在分词和过去分词作状语时的区别，各举一例。
+13. 依次为 Hearing the news, he jumped with joy\. / Being ill, he didn't go to school\. / Weather permitting, we will have a picnic\. / The boy standing there is my brother\.
 
-7. 什么是独立主格结构？它和普通分词作状语有什么区别？
-
-8. 用非谓语动词改写下列句子。When he heard the news, he jumped with joy\. / Because he was ill, he didn't go to school\. / If weather permits, we will have a picnic\. / The boy who is standing there is my brother\.
-
-参考答案：
-
-1. 不定式有 to do、to be doing、to have done、to have been doing、to be done、to have been done；动名词和现在分词有 doing、having done、being done、having been done。
-
-2. 依次为 to have written、to be reading、being built、Not knowing。
-
-3. 依次为 to tell（遗憾要告知）、laughing（忍不住笑）、to be cleaned（need后可接doing或to be done，此处to be cleaned更明确）、repaired（过去分词作宾补）。
-
-4. 第一句逻辑主语错误，应为 To learn English well, you need much practice\. 第二句正确。第三句正确。第四句应为 I found him waiting at the gate\.（him是wait的执行者，用现在分词）。
-
-5. 依次为 He came in, book in hand\. / Told many times, he still made the same mistake\. / I hope to be invited to the party\. / There being no bus, we had to walk home\.
-
-6. 中，现在分词作状语表示主动，逻辑主语是动作的执行者，例如 Walking in the park, I met a friend\. 过去分词作状语表示被动，逻辑主语是动作的承受者，例如 Seen from the hill, the city is beautiful\.
-
-7. 独立主格结构由“名词或代词加非谓语或其他成分”构成，有自己独立的逻辑主语，和句子主语不一致；普通分词作状语时，逻辑主语必须和句子主语一致。
-
-8. 依次为 Hearing the news, he jumped with joy\. / Being ill, he didn't go to school\. / Weather permitting, we will have a picnic\. / The boy standing there is my brother\.
-
-学完这一章，非谓语动词的基本框架已经建立。下一步你要做的是在阅读和写作中反复练习，遇到非谓语动词时先分析形式、成分和逻辑主语，逐步形成语感。第十四章的虚拟语气会继续用到不定式和分词的知识，建议在进入下一章前把本章的自测题再做一遍。
+学完这一章，非谓语动词的基本框架已经建立。下一步你要做的是在阅读和写作中反复练习，遇到非谓语动词时先分析形式、成分和逻辑主语，逐步形成语感。第十四章的虚拟语气会继续用到不定式和分词的知识，建议在进入下一章前把本章的练习再做一遍。

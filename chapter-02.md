@@ -89,9 +89,9 @@ SVOO 和 SVOC 都有"动词加两个成分"的结构，区分策略是看两个�
 
 句型扩展的方向有两个。横向扩展是在骨架上添加修饰成分，包括定语和状语，这是第一章已经建立的"句子等于骨架加修饰"的思路。纵向扩展是把简单句组合成并列句或复合句，这会在第十二章和第十三章系统展开。无论怎么扩展，底层骨架永远是五种基本句型之一。
 
-## 六、单元练习
+## 六、练习
 
-下面五道题对应本章的检查项：识别动词类型、判断五种句型、区分易混结构、运用判断流程。请先独立完成，再对照答案。
+下面的练习覆盖本章全部要点：识别动词类型、判断五种句型、区分易混结构、运用判断流程。请先独立完成，再对照参考答案核对。
 
 1. 判断下列句子的句型，并指出谓语动词的类型。The sun rises in the east\. / She bought her mother a scarf\. / They named the baby Alice\. / The milk went sour\. / I enjoy reading\.
 
@@ -102,6 +102,22 @@ SVOO 和 SVOC 都有"动词加两个成分"的结构，区分策略是看两个�
 4. 划掉修饰成分，写出下列句子的骨架并判断句型。The tall boy with a backpack quietly handed the teacher a note after class\.
 
 5. 将下列 SV 句型扩展为 SVO 句型，并说明你做了什么改动。Birds sing\.
+
+6. 写出五种基本句型的公式，并各举一个例句。
+
+7. 为什么说"动词决定句型"？用一句话回答。
+
+8. 判断下列句子的句型。The meeting lasted two hours\. / He showed me his new phone\. / The news made her angry\. / She seems upset\. / It rained heavily\.
+
+9. 指出下列句子中的间接宾语和直接宾语。My father taught me a lesson\. / The waiter brought us the menu\.
+
+10. 指出下列句子中的宾语补足语，并说明它是什么词性。We chose him monitor\. / She pushed the door open\. / I heard someone knocking\.
+
+11. 下列句子哪些是主系表，哪些是主谓宾？说明判断依据。The coffee tastes bitter\. / She tasted the coffee\. / He became a lawyer\. / He joined a law firm\.
+
+12. 用四步流程判断下列句子的句型。In the early morning, the old fisherman who had been working all night caught a huge fish in the deep sea\.
+
+13. 将 She gave the children some candy 改写为介词结构，并说明改写前后句型是否改变。
 
 参考答案：
 
@@ -115,42 +131,20 @@ SVOO 和 SVOC 都有"动词加两个成分"的结构，区分策略是看两个�
 
 5. 示例：Birds sing songs\. 在不及物动词 sing 后加宾语 songs，同时 sing 从不及物用法转为及物用法，句型从 SV 变为 SVO。
 
-## 七、单元自测
+6. SV（Birds sing\.）、SVO（She likes music\.）、SVOO（He gave me a pen\.）、SVOC（They made her happy\.）、SVP（He is tall\.）。
 
-下面八道题覆盖本章全部要点，请独立完成后核对答案。
+7. 因为五类动词各自只允许一种后续成分结构，动词类型直接限定了骨架形状。
 
-1. 写出五种基本句型的公式，并各举一个例句。
+8. 依次为 SV（lasted 此处为不及物，two hours 是时间状语）、SVOO、SVOC、SVP、SV。
 
-2. 为什么说"动词决定句型"？用一句话回答。
+9. 第一句间接宾语 me，直接宾语 a lesson。第二句间接宾语 us，直接宾语 the menu。
 
-3. 判断下列句子的句型。The meeting lasted two hours\. / He showed me his new phone\. / The news made her angry\. / She seems upset\. / It rained heavily\.
+10. 第一句 monitor 是名词作宾补，第二句 open 是形容词作宾补，第三句 knocking 是现在分词作宾补。
 
-4. 指出下列句子中的间接宾语和直接宾语。My father taught me a lesson\. / The waiter brought us the menu\.
+11. The coffee tastes bitter 是主系表，tastes 可替换为 is。She tasted the coffee 是主谓宾，tasted 是及物动词。He became a lawyer 是主系表。He joined a law firm 是主谓宾。
 
-5. 指出下列句子中的宾语补足语，并说明它是什么词性。We chose him monitor\. / She pushed the door open\. / I heard someone knocking\.
+12. 划掉 in the early morning、the old、who had been working all night、huge、in the deep sea 后，骨架是 The fisherman caught a fish，属于 SVO。
 
-6. 下列句子哪些是主系表，哪些是主谓宾？说明判断依据。The coffee tastes bitter\. / She tasted the coffee\. / He became a lawyer\. / He joined a law firm\.
-
-7. 用四步流程判断下列句子的句型。In the early morning, the old fisherman who had been working all night caught a huge fish in the deep sea\.
-
-8. 将 She gave the children some candy 改写为介词结构，并说明改写前后句型是否改变。
-
-参考答案：
-
-1. SV（Birds sing\.）、SVO（She likes music\.）、SVOO（He gave me a pen\.）、SVOC（They made her happy\.）、SVP（He is tall\.）。
-
-2. 因为五类动词各自只允许一种后续成分结构，动词类型直接限定了骨架形状。
-
-3. 依次为 SV（lasted 此处为不及物，two hours 是时间状语）、SVOO、SVOC、SVP、SV。
-
-4. 第一句间接宾语 me，直接宾语 a lesson。第二句间接宾语 us，直接宾语 the menu。
-
-5. 第一句 monitor 是名词作宾补，第二句 open 是形容词作宾补，第三句 knocking 是现在分词作宾补。
-
-6. The coffee tastes bitter 是主系表，tastes 可替换为 is。She tasted the coffee 是主谓宾，tasted 是及物动词。He became a lawyer 是主系表。He joined a law firm 是主谓宾。
-
-7. 划掉 in the early morning、the old、who had been working all night、huge、in the deep sea 后，骨架是 The fisherman caught a fish，属于 SVO。
-
-8. 改写为 She gave some candy to the children，句型仍然是 SVOO，只是间接宾语移到了介词 to 之后。
+13. 改写为 She gave some candy to the children，句型仍然是 SVOO，只是间接宾语移到了介词 to 之后。
 
 掌握了五种基本句型，你就拿到了拆解一切英语句子的钥匙。下一步可以进入第三章，学习六大句子成分的详细分工，把骨架上的每个位置都看清楚。

@@ -100,9 +100,9 @@ a 和 an 的选择是另一组易错点。a university 不是 an university，�
 
 还有一组易错点是有定冠词和无定冠词时意思不同。go to school（去上学）表示学生身份，go to the school（去那所学校）表示去学校这个地方，不一定是上学。in hospital（住院）表示病人身份，in the hospital（在医院里）表示在医院这个地方。at table（在吃饭），at the table（在桌旁）。by day（在白天），by the day（按天计算）。这类差异的核心是：零冠词表示功能或身份，定冠词表示具体地点。
 
-## 八、单元练习
+## 八、练习
 
-下面的练习对应本章的检查项：名词分类、复数变化、不可数名词量化、所有格选择、名词句法功能、冠词选择。请先独立完成，再对照参考答案核对。
+下面的练习覆盖本章全部要点：名词分类、复数变化、不可数名词量化、所有格选择、名词句法功能、冠词选择。请先独立完成，再对照参考答案核对。
 
 1. 写出下列名词的复数形式。1\. city 2\. knife 3\. child 4\. tomato 5\. mouse 6\. sheep 7\. analysis 8\. passer\-by
 
@@ -112,7 +112,21 @@ a 和 an 的选择是另一组易错点。a university 不是 an university，�
 
 4. 指出下列句子中名词充当的成分。1\. The girl is reading a book\. 2\. She is a teacher\. 3\. We made him monitor\. 4\. My friend Tom likes music\. 5\. This is a coffee cup\.
 
+5. 判断下列名词哪些可数哪些不可数。furniture, advice, information, equipment, book, water, happiness, team
 
+6. 改正下列句子中的错误。1\. I have many works to do\. 2\. She gave me a good advice\. 3\. The news are very exciting\. 4\. He bought two shoes\. 5\. There are many woman teachers in this school\.
+
+7. 用适当的单位词填空。1\. a \_\_\_ of bread 2\. two \_\_\_ of water 3\. a \_\_\_ of news 4\. three \_\_\_ of chocolate 5\. a \_\_\_ of sand
+
+8. 选择正确的所有格形式。1\. \(Tom and Jerry / Tom's and Jerry's\) \_\_\_ room is big\.（共用）2\. \(Tom and Jerry / Tom's and Jerry's\) \_\_\_ rooms are big\.（各自）3\. This is \(my father\-in\-law / my father\-in\-law's\) \_\_\_ car\.
+
+9. 说明下列每组短语的意思差异。1\. go to school / go to the school 2\. in hospital / in the hospital 3\. a few friends / few friends 4\. a little time / little time
+
+10. 翻译下列句子。1\. 我有两条重要的消息要告诉你。2\. 这是我父亲的一个朋友。3\. 太阳从东方升起。4\. 他每天坐地铁上班。5\. 我们选他当队长。
+
+11. 判断对错并改正。1\. A water is essential for life\. 2\. The honesty is important\. 3\. I play the basketball every weekend\. 4\. She has a university degree\. 5\. The China is a large country\.
+
+12. 用英语写五个句子，每个句子包含一个名词作主语、一个名词作宾语、一个名词作定语。
 
 参考答案：
 
@@ -124,48 +138,20 @@ a 和 an 的选择是另一组易错点。a university 不是 an university，�
 
 4. 依次为：1\. The girl 主语，a book 宾语；2\. a teacher 表语；3\. monitor 宾语补足语；4\. Tom 同位语，music 宾语；5\. coffee 定语。
 
+5. 可数的有 book、team；不可数的有 furniture、advice、information、equipment、water、happiness。
 
+6. 1\. many works 改为 much work 或 a lot of work；2\. a good advice 改为 a good piece of advice；3\. are 改为 is；4\. two shoes 改为 two pairs of shoes；5\. woman teachers 改为 women teachers。
 
-## 九、单元自测
+7. 依次为 loaf、bottles/glasses、piece、bars、grain。
 
-下面八道自测题覆盖本章全部要点。请独立完成后核对答案。
+8. 依次为 Tom and Jerry's、Tom's and Jerry's、my father\-in\-law's。
 
+9. 1\. 去上学 vs 去学校那个地方；2\. 住院 vs 在医院里；3\. 几个朋友（有一些）vs 几乎没有朋友；4\. 一点时间（有一些）vs 几乎没有时间。
 
+10. 1\. I have two pieces of important news to tell you\. 2\. This is a friend of my father's\. 3\. The sun rises in the east\. 4\. He goes to work by subway every day\. 5\. We made him captain\.
 
-1. 判断下列名词哪些可数哪些不可数。furniture, advice, information, equipment, book, water, happiness, team
+11. 1\. 错，A water 改为 Water；2\. 错，The honesty 改为 Honesty；3\. 错，the basketball 改为 basketball；4\. 对；5\. 错，The China 改为 China。
 
-2. 改正下列句子中的错误。1\. I have many works to do\. 2\. She gave me a good advice\. 3\. The news are very exciting\. 4\. He bought two shoes\. 5\. There are many woman teachers in this school\.
-
-3. 用适当的单位词填空。1\. a \_\_\_ of bread 2\. two \_\_\_ of water 3\. a \_\_\_ of news 4\. three \_\_\_ of chocolate 5\. a \_\_\_ of sand
-
-4. 选择正确的所有格形式。1\. \(Tom and Jerry / Tom's and Jerry's\) \_\_\_ room is big\.（共用）2\. \(Tom and Jerry / Tom's and Jerry's\) \_\_\_ rooms are big\.（各自）3\. This is \(my father\-in\-law / my father\-in\-law's\) \_\_\_ car\.
-
-5. 说明下列每组短语的意思差异。1\. go to school / go to the school 2\. in hospital / in the hospital 3\. a few friends / few friends 4\. a little time / little time
-
-6. 翻译下列句子。1\. 我有两条重要的消息要告诉你。2\. 这是我父亲的一个朋友。3\. 太阳从东方升起。4\. 他每天坐地铁上班。5\. 我们选他当队长。
-
-7. 判断对错并改正。1\. A water is essential for life\. 2\. The honesty is important\. 3\. I play the basketball every weekend\. 4\. She has a university degree\. 5\. The China is a large country\.
-
-8. 用英语写五个句子，每个句子包含一个名词作主语、一个名词作宾语、一个名词作定语。
-
-
-
-参考答案：
-
-1. 可数的有 book、team；不可数的有 furniture、advice、information、equipment、water、happiness。
-
-2. 1\. many works 改为 much work 或 a lot of work；2\. a good advice 改为 a good piece of advice；3\. are 改为 is；4\. two shoes 改为 two pairs of shoes；5\. woman teachers 改为 women teachers。
-
-3. 依次为 loaf、bottles/glasses、piece、bars、grain。
-
-4. 依次为 Tom and Jerry's、Tom's and Jerry's、my father\-in\-law's。
-
-5. 1\. 去上学 vs 去学校那个地方；2\. 住院 vs 在医院里；3\. 几个朋友（有一些）vs 几乎没有朋友；4\. 一点时间（有一些）vs 几乎没有时间。
-
-6. 1\. I have two pieces of important news to tell you\. 2\. This is a friend of my father's\. 3\. The sun rises in the east\. 4\. He goes to work by subway every day\. 5\. We made him captain\.
-
-7. 1\. 错，A water 改为 Water；2\. 错，The honesty 改为 Honesty；3\. 错，the basketball 改为 basketball；4\. 对；5\. 错，The China 改为 China。
-
-8. 开放题，示例：The student wrote a letter with a ballpoint pen\. The teacher gave the students a grammar exercise\. The boy bought a story book at the book store\. The doctor gave the patient a medical report\. The girl put her coffee cup on the kitchen table\.
+12. 开放题，示例：The student wrote a letter with a ballpoint pen\. The teacher gave the students a grammar exercise\. The boy bought a story book at the book store\. The doctor gave the patient a medical report\. The girl put her coffee cup on the kitchen table\.
 
 学完本章，你要能在写作时快速判断名词的可数性、正确使用复数形式、选择合适的所有格和冠词。下一步进入第五章，学习代词如何替代名词、在句子中充当主语和宾语等成分。
