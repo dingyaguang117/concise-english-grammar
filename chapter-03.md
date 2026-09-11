@@ -66,7 +66,7 @@
 
 定语修饰名词或代词，回答"什么样的"。定语可以出现在被修饰词的前面，叫前置定语，也可以出现在后面，叫后置定语。
 
-前置定语通常是单个的形容词、数词、名词或代词。a red apple（一个红苹果）中 red 是形容词作前置定语。three books（三本书）中 three 是数词作前置定语。a coffee cup（一个咖啡杯）中 coffee 是名词作前置定语。his book（他的书）中 his 是物主代词作前置定语。多个前置定语同时出现时，有一定的排列顺序，通常是限定词加描绘性形容词加大小加形状加新旧加颜色加国籍加材料加用途，这个顺序会在第四章形容词部分详细展开。
+前置定语通常是单个的形容词、数词、名词或代词。a red apple（一个红苹果）中 red 是形容词作前置定语。three books（三本书）中 three 是数词作前置定语。a coffee cup（一个咖啡杯）中 coffee 是名词作前置定语。his book（他的书）中 his 是物主代词作前置定语。多个前置定语同时出现时，有一定的排列顺序，通常是限定词加描绘性形容词加大小加形状加新旧加颜色加国籍加材料加用途，这个顺序会在第六章形容词部分详细展开。
 
 后置定语通常是短语或从句。介词短语作后置定语，the book on the desk（桌上的书）中 on the desk 修饰 the book。形容词修饰不定代词时要后置，something important（重要的事）中 important 修饰 something。分词短语作后置定语，the man standing there（站在那里的人）中 standing there 修饰 the man。不定式作后置定语，I have a lot of work to do\.（我有很多工作要做。）中 to do 修饰 work。定语从句作后置定语，the book that I bought yesterday（我昨天买的那本书）中 that I bought yesterday 修饰 the book。
 

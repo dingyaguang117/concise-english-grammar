@@ -20,7 +20,7 @@
 
 规则变化的核心公式是"单数加 s"。一般情况下，在词尾直接加 s：book → books，cat → cats，apple → apples。以 s、x、ch、sh 结尾的词加 es：bus → buses，box → boxes，watch → watches，dish → dishes。以"辅音字母加 y"结尾的词，变 y 为 i 再加 es：city → cities，baby → babies，story → stories。以"元音字母加 y"结尾的词直接加 s：boy → boys，day → days，key → keys。
 
-以 o 结尾的词，加 s 或 es 没有完全统一的规则。常见加 es 的有 tomato → tomatoes，potato → potatoes，hero → heroes，Negro → Negroes。其余大多加 s：photo → photos，piano → pianos，radio → radios，zoo → zoos。记忆策略是记住"黑人英雄爱吃土豆西红柿"这一句，其余加 s。
+以 o 结尾的词，加 s 或 es 没有完全统一的规则。常见加 es 的有 tomato → tomatoes，potato → potatoes，hero → heroes，echo → echoes。其余大多加 s：photo → photos，piano → pianos，radio → radios，zoo → zoos。记忆策略是记住“英雄爱吃土豆西红柿”这一句，其余加 s。
 
 以 f 或 fe 结尾的词，多数变 f 或 fe 为 v 再加 es：leaf → leaves，knife → knives，wife → wives，half → halves，shelf → shelves。少数直接加 s：roof → roofs，chief → chiefs，belief → beliefs，gulf → gulfs。还有一个词两种形式都可以：handkerchief → handkerchiefs 或 handkerchieves。
 
@@ -118,7 +118,7 @@ a 和 an 的选择是另一组易错点。a university 不是 an university，�
 
 1. 依次为 cities、knives、children、tomatoes、mice、sheep、analyses、passers\-by。
 
-2. 依次为 an、The the、the、零冠词 零冠词、零冠词、the、The the、零冠词。
+2. 依次为：1. an；2. The，the；3. the；4. 零冠词，零冠词；5. 零冠词；6. the；7. The，the；8. 零冠词。
 
 3. 依次为 the room's door、the student's book、my father's car、the novel's title、the children's toys。
 

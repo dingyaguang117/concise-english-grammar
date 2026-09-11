@@ -74,9 +74,9 @@
 
 这个规则延伸到主语从句和表语从句。句型 It is important/necessary/essential/strange/natural that 后面的从句同样用 should 加动词原形。公式是：It is 加形容词加 that 加主语加（should）加动词原形。
 
-例句十五：It is important that every student \(should\) attend the meeting\.（每个学生都参加会议很重要。）
+例句九：It is important that every student \(should\) attend the meeting\.（每个学生都参加会议很重要。）
 
-例句十六：It is necessary that he \(should\) be informed immediately\.（有必要立即通知他。）
+例句十：It is necessary that he \(should\) be informed immediately\.（有必要立即通知他。）
 
 判断一个 that 从句是否需要虚拟，方法是看主句的动词或形容词是否属于"建议、命令、要求、重要性"这一语义场。属于就用 should 加原形，不属于就用陈述语气。一个高频易错点是 suggest 表示"暗示、表明"时不用虚拟，只有表示"建议"时才用。比如 His expression suggested that he was angry（他的表情表明他生气了），这里 suggest 是"表明"，从句用陈述语气 was，不用 should be。
 
@@ -88,23 +88,23 @@
 
 **as if / as though** 引导的方式状语从句常用虚拟，表示"好像"但实际并非如此。公式是：主句加 as if 加主语加虚拟形式。与现在事实相反用过去时，与过去事实相反用过去完成时。
 
-例句十七：He talks as if he knew everything\.（他说起话来好像什么都懂。）实际他并不全懂，用 knew。
+例句十一：He talks as if he knew everything\.（他说起话来好像什么都懂。）实际他并不全懂，用 knew。
 
-例句十八：She looked as if she had seen a ghost\.（她看起来好像见了鬼似的。）实际没见鬼，用 had seen。
+例句十二：She looked as if she had seen a ghost\.（她看起来好像见了鬼似的。）实际没见鬼，用 had seen。
 
 不过，as if 从句也可以用陈述语气，当说话人认为内容可能是真的时。比如 It looks as if it is going to rain（看起来要下雨了），说话人认为下雨的可能性很大，用陈述语气。判断用虚拟还是陈述，策略是看说话人对内容真实性的判断。
 
 **in case / lest / for fear that** 引导的目的状语从句用 should 加动词原形，表示"以防、以免"。公式是：主句加 in case/lest/for fear that 加主语加 should 加动词原形。
 
-例句十九：Take an umbrella in case it should rain\.（带把伞，以防下雨。）
+例句十三：Take an umbrella in case it should rain\.（带把伞，以防下雨。）
 
-例句二十：He wrote it down lest he should forget\.（他把它写下来以免忘记。）
+例句十四：He wrote it down lest he should forget\.（他把它写下来以免忘记。）
 
 **It is \(high\) time that** 句型表示"该是做某事的时候了"，从句用一般过去时或 should 加动词原形。公式是：It is \(high\) time that 加主语加过去时/should 加动词原形。
 
-例句二十一：It is high time that we went home\.（我们该回家了。）
+例句十五：It is high time that we went home\.（我们该回家了。）
 
-例句二十二：It is time that he should make a decision\.（他该做决定了。）
+例句十六：It is time that he should make a decision\.（他该做决定了。）
 
 这个句型的检查项是从句不能用现在时，必须用过去时或 should 加原形。另外，It is time for sb\. to do sth\. 是陈述语气的等价表达，不涉及虚拟。
 
@@ -116,9 +116,9 @@ wish 后面的宾语从句用虚拟，表示不可能实现或难以实现的愿
 
 if only 的用法与 wish 完全相同，但语气更强烈，常表示感叹。公式是：If only 加主语加虚拟形式。
 
-例句二十六：If only I had known earlier\!（要是我早点知道就好了！）
+例句十七：If only I had known earlier\!（要是我早点知道就好了！）
 
-例句二十七：If only she were here\!（她要是在这儿就好了！）
+例句十八：If only she were here\!（她要是在这儿就好了！）
 
 wish 和 if only 的区别只在语气强度，形式规则一致。检查项是 wish 后的从句不能用现在时表示现在的愿望，必须"后退一格"。
 
@@ -126,9 +126,9 @@ wish 和 if only 的区别只在语气强度，形式规则一致。检查项是
 
 would rather 后面的从句用虚拟，表示"宁愿某人做某事"。公式是：主语加 would rather 加 that 加主语加虚拟形式。对现在或将来的宁愿用一般过去时，对过去的宁愿用过去完成时。
 
-例句二十八：I would rather you didn't smoke here\.（我宁愿你别在这儿抽烟。）对现在的情况，用 didn't smoke。
+例句十九：I would rather you didn't smoke here\.（我宁愿你别在这儿抽烟。）对现在的情况，用 didn't smoke。
 
-例句二十九：I would rather he had told me the truth\.（我宁愿他当时告诉了我真相。）对过去的情况，用 had told。
+例句二十：I would rather he had told me the truth\.（我宁愿他当时告诉了我真相。）对过去的情况，用 had told。
 
 would rather 后面直接跟动词原形时不涉及虚拟，那是另一个结构。比如 I would rather stay at home（我宁愿待在家里），这里 stay 是原形，因为主语和 would rather 的逻辑主语一致。只有当 would rather 后面跟另一个主语的从句时才用虚拟。
 
@@ -148,15 +148,15 @@ would rather 后面直接跟动词原形时不涉及虚拟，那是另一个结�
 
 完全倒装的第二类场景是表语前置。当表语是形容词、分词或介词短语，且放在句首以保持句子平衡或衔接上下文时，用完全倒装。公式是：表语加 be 动词加主语。
 
-例句三十三：Present at the meeting were many experts\.（出席会议的有许多专家。）
+例句二十一：Present at the meeting were many experts\.（出席会议的有许多专家。）
 
-例句三十四：Gone are the days when we were poor\.（我们贫穷的日子一去不复返了。）
+例句二十二：Gone are the days when we were poor\.（我们贫穷的日子一去不复返了。）
 
 完全倒装的第三类场景是地点状语前置。表示地点的介词短语放在句首，且主语是名词时，用完全倒装。公式是：地点介词短语加谓语动词加主语。
 
-例句三十五：On the wall hangs a beautiful painting\.（墙上挂着一幅美丽的画。）
+例句二十三：On the wall hangs a beautiful painting\.（墙上挂着一幅美丽的画。）
 
-例句三十六：Under the tree sat an old man\.（树下坐着一位老人。）
+例句二十四：Under the tree sat an old man\.（树下坐着一位老人。）
 
 完全倒装的共同检查项是主语为名词时才能倒装，主语为代词时不倒装。另外，完全倒装通常只用一般现在时和一般过去时，不用进行时或完成时。
 
@@ -172,9 +172,9 @@ would rather 后面直接跟动词原形时不涉及虚拟，那是另一个结�
 
 部分倒装的第三类场景是 so、neither、nor 放在句首，表示"也"或"也不"。公式是：so/neither/nor 加助动词/情态动词/be 动词加主语。so 用于肯定句后，neither/nor 用于否定句后。
 
-例句四十三：She likes music, and so do I\.（她喜欢音乐，我也喜欢。）
+例句二十五：She likes music, and so do I\.（她喜欢音乐，我也喜欢。）
 
-例句四十四：He can't swim, and neither can she\.（他不会游泳，她也不会。）
+例句二十六：He can't swim, and neither can she\.（他不会游泳，她也不会。）
 
 部分倒装的第四类场景是省略 if 的虚拟条件句，这在第四节已经讲过。were、had、should 提前到主语前，本质上就是部分倒装。
 

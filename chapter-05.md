@@ -90,7 +90,7 @@ other 和 another 涉及"其他的"和"另一个"。other 表示"其他的"，�
 
 疑问代词用于构成特殊疑问句，包括 who、whom、whose、which、what。who 问"谁"，作主语或表语，Who is coming?（谁要来？）whom 问"谁"，作宾语，Whom did you see?（你看见谁了？）口语中常用 who 代替 whom。whose 问"谁的"，Whose book is this?（这是谁的书？）which 问"哪一个"，在一定范围内选择，Which do you like?（你喜欢哪一个？）what 问"什么"，What is this?（这是什么？）
 
-连接代词用于引导名词性从句，包括主语从句、宾语从句、表语从句和同位语从句，常见的有 who、whom、whose、which、what、whatever、whichever、whoever。连接代词在从句中充当主语、宾语、表语或定语。I don't know what he wants\.（我不知道他想要什么。）中 what 引导宾语从句，在从句中作 wants 的宾语。What he said is true\.（他说的是真的。）中 what 引导主语从句，在从句中作 said 的宾语。名词性从句会在第十三章系统展开，这里先建立直觉。
+连接代词用于引导名词性从句，包括主语从句、宾语从句、表语从句和同位语从句，常见的有 who、whom、whose、which、what、whatever、whichever、whoever。连接代词在从句中充当主语、宾语、表语或定语。I don't know what he wants\.（我不知道他想要什么。）中 what 引导宾语从句，在从句中作 wants 的宾语。What he said is true\.（他说的是真的。）中 what 引导主语从句，在从句中作 said 的宾语。名词性从句会在第十二章系统展开，这里先建立直觉。
 
 ## 七、代词指代一致与易错点
 

@@ -1,6 +1,6 @@
 # 附录二 不规则动词表
 
-本附录收录初高中阶段常见不规则动词约110个，按动词原形字母顺序排列。表格列为原形、过去式、过去分词和中文释义。不规则动词的变化没有统一规律，需要逐个记忆。建议按变化模式分组记忆，例如 AAA 型（三式相同）、ABA 型（过去式与原形相同）、ABB 型（过去式与过去分词相同）、ABC 型（三式各不相同）。
+本附录收录初高中阶段常见不规则动词 140 余个，按动词原形字母顺序排列。表格列为原形、过去式、过去分词和中文释义。不规则动词的变化没有统一规律，需要逐个记忆。建议按变化模式分组记忆，例如 AAA 型（三式相同）、ABA 型（过去分词与原形相同）、ABB 型（过去式与过去分词相同）、ABC 型（三式各不相同）。
 
 |原形|过去式|过去分词|中文释义|
 |---|---|---|---|
@@ -149,4 +149,4 @@
 |withhold|withheld|withheld|扣留，拒绝|
 |write|wrote|written|写|
 
-记忆这张表的策略，是先掌握出现频率最高的三十个动词，包括 be、have、do、go、come、see、say、make、take、get、give、find、tell、know、think、look、want、use、try、leave、call、keep、let、begin、seem、help、show、hear、eat、run。这些动词在日常交流中覆盖率超过百分之八十。不过，仅靠背诵还不够，在阅读和写作中反复遇到这些动词的不同形式，才能真正记牢。掌握核心动词后，再按变化模式分组扩展，效率会明显提高。
+记忆这张表的策略，是先掌握出现频率最高的三十个动词，包括 be、have、do、go、come、see、say、make、take、get、give、find、tell、know、think、leave、keep、let、begin、show、hear、eat、run、put、read、feel、bring、buy、send、write。这些动词在日常交流中覆盖率超过百分之八十。不过，仅靠背诵还不够，在阅读和写作中反复遇到这些动词的不同形式，才能真正记牢。掌握核心动词后，再按变化模式分组扩展，效率会明显提高。

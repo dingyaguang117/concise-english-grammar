@@ -29,7 +29,7 @@
 |过去完成时|had been \+ built|The house had been built before 2010\.（这座房子在2010年之前就已建好。）|
 |将来完成时|will have been \+ built|The house will have been built by next month\.（到下个月这座房子将已建好。）|
 
-使用这张表的检查项有两个。第一，be动词的时态必须和原主动句的时态一致，主动句是过去时，被动句的be就用was或were。第二，过去分词的拼写要准确，不规则动词的过去分词需要单独记忆，例如go的过去分词是gone，write是written，speak是spoken。第八章已经系统讲过各时态的主动形式，被动形式只是在主动形式的基础上把动词换成"be加过去分词"，be本身的时态变化规律完全相同。
+使用这张表的检查项有两个。第一，be动词的时态必须和原主动句的时态一致，主动句是过去时，被动句的be就用was或were。第二，过去分词的拼写要准确，不规则动词的过去分词需要单独记忆，例如go的过去分词是gone，write是written，speak是spoken。第八、九章已经系统讲过各时态的主动形式，被动形式只是在主动形式的基础上把动词换成"be加过去分词"，be本身的时态变化规律完全相同。
 
 ### （三）主动变被动的转换步骤
 

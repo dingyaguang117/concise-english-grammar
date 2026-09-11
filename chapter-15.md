@@ -20,9 +20,9 @@
 
 **not\.\.\.until 的强调**公式是：It is/was not until 加时间/时间从句加 that 加主句。这个结构把"直到……才"的语气加强。
 
-例句八：It was not until midnight that he finished his homework\.（直到半夜他才完成作业。）原句是 He didn't finish his homework until midnight。
+例句一：It was not until midnight that he finished his homework\.（直到半夜他才完成作业。）原句是 He didn't finish his homework until midnight。
 
-例句九：It was not until she came back that I left\.（直到她回来我才离开。）
+例句二：It was not until she came back that I left\.（直到她回来我才离开。）
 
 这个结构的检查项是 that 后面的主句要用肯定形式，因为 not 已经移到了被强调部分里。不能说 \*It was not until midnight that he didn't finish。
 
@@ -38,9 +38,9 @@
 
 **倒装强调**通过把某个成分移到句首来突出它，这与第十四章讲的倒装规则一致。否定词前置、only 加状语前置、so 加形容词/副词前置等都能起到强调作用。
 
-例句十六：So difficult was the exam that many students failed\.（考试如此之难，以至于许多学生都没及格。）
+例句三：So difficult was the exam that many students failed\.（考试如此之难，以至于许多学生都没及格。）
 
-例句十七：Never before have I met such a kind person\.（我以前从未遇到过这么善良的人。）
+例句四：Never before have I met such a kind person\.（我以前从未遇到过这么善良的人。）
 
 ## 二、强调句型的判断方法
 
@@ -72,21 +72,21 @@
 
 **定语从句中关系词的省略**发生在关系代词作宾语时。当 who、whom、which、that 在定语从句中作动词或介词的宾语时，可以省略。公式是：先行词加（省略关系代词后的）定语从句。
 
-例句二十五：The book \(that/which\) I bought yesterday is interesting\.（我昨天买的那本书很有趣。）that/which 作 bought 的宾语，可以省略。
+例句五：The book \(that/which\) I bought yesterday is interesting\.（我昨天买的那本书很有趣。）that/which 作 bought 的宾语，可以省略。
 
-例句二十六：The man \(who/whom/that\) you met is my teacher\.（你遇到的那个人是我的老师。）
+例句六：The man \(who/whom/that\) you met is my teacher\.（你遇到的那个人是我的老师。）
 
 关系代词作主语时不能省略。比如 The man who is talking is my teacher 中 who 作主语，不能省略为 \*The man is talking is my teacher。
 
 **宾语从句中 that 的省略**是高频现象。在及物动词后的宾语从句中，引导词 that 通常可以省略。公式是：主语加及物动词加（that）加从句。
 
-例句二十七：I think \(that\) he is right\.（我认为他是对的。）
+例句七：I think \(that\) he is right\.（我认为他是对的。）
 
-例句二十八：She said \(that\) she would come\.（她说她会来。）
+例句八：She said \(that\) she would come\.（她说她会来。）
 
 不过，有几种情况 that 不能省略。第一，当 that 引导的宾语从句前有插入语时。第二，当主句谓语动词后接两个或多个 that 从句时，第一个 that 可以省略，后面的 that 不能省略，否则会引起歧义。第三，that 从句位于句首时不能省略。第四，在介词后的宾语从句中 that 不能省略。
 
-例句二十九：He told me \(that\) he had finished the work and that he would go home\.（他告诉我他已经完成了工作，而且他要回家了。）第一个 that 可省，第二个 that 不能省。
+例句九：He told me \(that\) he had finished the work and that he would go home\.（他告诉我他已经完成了工作，而且他要回家了。）第一个 that 可省，第二个 that 不能省。
 
 **不定式符号 to 的省略**发生在几个特定场景。第一，在情态动词（can、could、will、would、shall、should、may、might、must）后，to 必须省略，直接跟动词原形。第二，在使役动词 make、let、have 后作宾补时，to 省略。第三，在感官动词 see、hear、watch、feel、notice 等后作宾补时，to 省略。第四，在 Why not\.\.\.、Had better\.\.\.、Would rather\.\.\. 等结构后，to 省略。
 
@@ -104,9 +104,9 @@
 
 **so 和 not** 用于代替宾语从句，放在 believe、think、expect、suppose、hope、guess、be afraid 等动词后。so 代替肯定的 that 从句，not 代替否定的 that 从句。
 
-例句三十六：Is he coming? I think so\.（他会来吗？我想会的。）so 代替 that he is coming。
+例句十：Is he coming? I think so\.（他会来吗？我想会的。）so 代替 that he is coming。
 
-例句三十七：Will it rain? I hope not\.（会下雨吗？我希望不要。）not 代替 that it will not rain。
+例句十一：Will it rain? I hope not\.（会下雨吗？我希望不要。）not 代替 that it will not rain。
 
 **do so、do it、do that** 用于代替前面提到的动作，以避免重复动词短语。do so 最正式，do it 最常用，do that 强调那个动作。
 
@@ -148,9 +148,9 @@
 
 **the 加形容词**表示一类人时，用复数动词。the rich（富人）、the poor（穷人）、the old（老人）、the young（年轻人）、the sick（病人）、the wounded（伤员）等。
 
-例句五十二：The rich are not always happy\.（富人并不总是快乐的。）
+例句十二：The rich are not always happy\.（富人并不总是快乐的。）
 
-例句五十三：The old need more care\.（老人需要更多关怀。）
+例句十三：The old need more care\.（老人需要更多关怀。）
 
 不过，the 加形容词表示抽象概念时用单数，比如 The beautiful is not always the good（美的并不总是善的）。
 
@@ -170,9 +170,9 @@
 
 **there be 句型**中，be 动词的数与离它最近的主语保持一致。公式是：There is/are 加主语一加 and 加主语二。
 
-例句六十：There is a book and two pens on the desk\.（桌子上有一本书和两支笔。）离 be 最近的是 a book，用 is。
+例句十四：There is a book and two pens on the desk\.（桌子上有一本书和两支笔。）离 be 最近的是 a book，用 is。
 
-例句六十一：There are two pens and a book on the desk\.（桌子上有两支笔和一本书。）离 be 最近的是 two pens，用 are。
+例句十五：There are two pens and a book on the desk\.（桌子上有两支笔和一本书。）离 be 最近的是 two pens，用 are。
 
 就近原则的检查项是只有上述特定结构才用就近原则，普通的 and 连接的并列主语用复数动词，不适用就近原则。比如 Tom and Jerry are good friends 用 are，不能因为 Jerry 是单数就用 is。
 
@@ -190,9 +190,9 @@
 
 **many a 加单数名词**和more than one 加单数名词作主语时，形式上是单数，谓语动词用单数。虽然意义上是"许多"，但语法形式要求单数。
 
-例句六十八：Many a student has made this mistake\.（许多学生犯了这个错误。）用 has。
+例句十六：Many a student has made this mistake\.（许多学生犯了这个错误。）用 has。
 
-例句六十九：More than one person was injured in the accident\.（不止一个人在事故中受伤。）用 was。
+例句十七：More than one person was injured in the accident\.（不止一个人在事故中受伤。）用 was。
 
 不过，more 加复数名词加 than one 作主语时，用复数动词，比如 More students than one are interested in the topic（不止一个学生对这个话题感兴趣）。
 

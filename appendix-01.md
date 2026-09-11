@@ -23,10 +23,10 @@
 |时态选择|I have seen him yesterday\.|I saw him yesterday\.|现在完成时不能与明确的过去时间状语（yesterday、last week、in 2020）连用。有明确过去时间时用一般过去时。|
 |时态选择|If it will rain tomorrow, we will stay home\.|If it rains tomorrow, we will stay home\.|时间和条件状语从句中，用一般现在时表示将来，即"主将从现"。|
 |时态选择|He is living here since 2010\.|He has lived here since 2010\.|since 加时间点表示动作从过去持续到现在，用现在完成时，不用现在进行时。|
-|被动语态|The book was written by him last year\.|The book was written by him last year\.（正确）|此句正确。被动语态的结构是 be 加过去分词，时态体现在 be 动词上。常见错误是漏掉 be 动词：The book written by him\.|
+|被动语态|The book written by him last year\.|The book was written by him last year\.|被动语态的结构是 be 加过去分词，时态体现在 be 动词上，常见错误是漏掉 be 动词。|
 |被动语态|The problem was been solved\.|The problem has been solved\.|被动语态的完成时是 have/has been done，不是 was been done。was been 是不存在的结构。|
 |情态动词推测|He musts be at home\.|He must be at home\.|情态动词没有人称和数的变化，后面接动词原形。must 表示肯定推测，意为"一定"。|
-|情态动词推测|She can't have left already\.|She can't have left already\.（正确）|此句正确。can't have done 表示对过去事情的否定推测，意为"不可能已经做了某事"。must have done 表示肯定推测。|
+|情态动词推测|She mustn't have left already\.|She can't have left already\.|对过去的否定推测用 can't have done，意为"不可能已经做了某事"。mustn't 表示"禁止"，不用于推测；must have done 表示肯定推测。|
 |非谓语动词|I enjoy to read books\.|I enjoy reading books\.|enjoy 后面接动名词，不接不定式。类似只接动名词的动词还有 finish、mind、practice、avoid、suggest。|
 |非谓语动词|He wants going home\.|He wants to go home\.|want 后面接不定式，不接动名词。类似只接不定式的动词还有 hope、wish、decide、plan、agree。|
 |非谓语动词|The book is worth to read\.|The book is worth reading\.|be worth 后面接动名词的主动形式表示被动意义，不接不定式。|
