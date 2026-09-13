@@ -1,8 +1,8 @@
-# 英语语法教材：以句子为纲的七步递进体系
+# 英语语法简明教程
 
 一本以「句子」为组织中心的英语语法教材，共十六章，分七个模块由浅入深推进，书末附三个检索用附录。面向初高中到大学阶段的学习者，也适合自学者与教师备课参考。
 
-## 内容结构
+## 目录结构
 
 | 模块 | 章节 | 主题 |
 |---|---|---|
@@ -16,9 +16,12 @@
 
 附录：全书易错点速查、不规则动词表、语法术语表。
 
+
+[点我开始阅读](./src/SUMMARY.md)
+
 ## 环境要求
 
-- [mdBook](https://rust-lang.github.io/mdBook/) v0.5+
+- [mdBook](https://github.com/rust-lang/mdBook) v0.5+
 - [mdbook-epub](https://github.com/michael-f-bryan/mdbook-epub)（仅构建 EPUB 时需要）
 
 ```
