@@ -1,6 +1,7 @@
-.PHONY: help build serve watch clean check test
+.PHONY: help build serve watch clean check test epub
 
 MDBOOK ?= mdbook
+MDBOOK_EPUB ?= mdbook-epub
 
 help: ## 显示可用命令
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | \
@@ -24,3 +25,9 @@ check: ## 检查 mdbook 环境与配置
 
 test: build ## 别名：构建并校验
 	@echo "OK: 构建产物位于 book/"
+
+epub: ## 构建 EPUB 电子书到 book/
+	@command -v $(MDBOOK_EPUB) >/dev/null || { \
+		echo "未找到 $(MDBOOK_EPUB)，请先安装：cargo install mdbook-epub"; exit 1; }
+	$(MDBOOK_EPUB) -s .
+	@echo "OK: EPUB 位于 book/*.epub"

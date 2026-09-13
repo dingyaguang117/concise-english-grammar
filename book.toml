@@ -6,4 +6,5 @@ src = "src"
 
 [output.html]
 default-theme = "light"
-
+no-section-label = true
+sidebar-header-nav = false
